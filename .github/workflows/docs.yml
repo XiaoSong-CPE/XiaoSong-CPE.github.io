@@ -23,6 +23,10 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 18
 
+      # npm 安装
+      - name: npm install
+        run: npm install
+
       # 运行构建脚本
       - name: Build VuePress site
         run: npm run docs:build
