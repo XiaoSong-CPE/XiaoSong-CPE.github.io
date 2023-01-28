@@ -35,6 +35,11 @@ jobs:
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
+        # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+        permissions:
+          contents: read
+          pages: write
+          id-token: write
         with:
           # 部署到 main 分支
           target_branch: main
