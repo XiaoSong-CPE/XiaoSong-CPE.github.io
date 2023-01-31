@@ -4,7 +4,7 @@ heroText: 欢迎来学德语！
 tagline:
 actions:
   - text: 开始学习
-    link: /Einheit 1.md
+    link: /deutsch/Einheit 1.md
 ---
 
 ## 学习资源
