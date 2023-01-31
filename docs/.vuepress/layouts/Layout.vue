@@ -3,9 +3,10 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue';
 import moment from 'moment/min/moment-with-locales';
 
 function timeLocalize(lang, date) {
+    if (date === undefined) { return; } // 如果没有date就返回空值
     let prefix = '';
-    let leftBracket = ' ('
-    let rightBracket = ')'
+    let leftBracket = ' (';
+    let rightBracket = ')';
     if (lang === 'zh') {
         lang = 'zh-cn';
         prefix = '日期：';
@@ -17,14 +18,14 @@ function timeLocalize(lang, date) {
         prefix = 'Date: ';
     }
     moment.locale(lang);
-    return prefix + moment(date, 'YYYY-MM-DD').fromNow() + leftBracket + moment(date, 'YYYY-MM-DD').format('LL') + rightBracket
+    return prefix + moment(date, 'YYYY-MM-DD').fromNow() + leftBracket + moment(date, 'YYYY-MM-DD').format('LL') + rightBracket;
 }
 </script>
 
 <template>
     <ParentLayout>
         <template #page-content-top>
-            <div>{{ timeLocalize($lang, $frontmatter.date) }}</div>
+            {{ timeLocalize($lang, $frontmatter.date) }}
         </template>
     </ParentLayout>
 </template>
