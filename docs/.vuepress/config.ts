@@ -22,10 +22,17 @@ export default defineUserConfig({
         },
     },
     theme: defaultTheme({
+        repo: 'XiaoSong-CPE/XiaoSong-CPE.github.io',
+        docsBranch: 'main',
+        docsDir: 'docs',
         locales: {
             '/': {
                 selectLanguageName: '简体中文',
                 selectLanguageText: '语言',
+                lastUpdatedText: '上次更新',
+                contributorsText: '贡献者',
+                notFound:['找不到网页'],
+                backToHome:'返回主页',
             },
             '/en/': {
                 selectLanguageName: 'English',
