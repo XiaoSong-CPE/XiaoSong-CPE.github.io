@@ -42,20 +42,7 @@ export default defineUserConfig({
                         link: '/deutsch/',
                     },
                 ],
-                sidebar: {
-                    '/dairy/': [
-                        {
-                            text: '我的日记',
-                            children: [],
-                        },
-                    ],
-                    '/deutsch/': [
-                        {
-                            text: '德语学习',
-                            children: ['/deutsch/Einheit 1.md', '/deutsch/Einheit 2.md'],
-                        },
-                    ],
-                },
+                sidebar:false,
             },
             '/en/': {
                 selectLanguageName: 'English',
