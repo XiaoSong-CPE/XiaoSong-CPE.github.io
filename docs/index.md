@@ -5,8 +5,8 @@ actions:
     link: /dairy/
   - text: 德语学习
     link: /deutsch/
-    text: 文学专题
+  - text: 文学专题
     link: /literature/
-    text: 数学方法
+  - text: 数学方法
     link: /math/
 ---
