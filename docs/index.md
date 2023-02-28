@@ -9,4 +9,6 @@ actions:
     link: /literature/
   - text: 数学方法
     link: /math/
+  - text: 汉英翻译
+    link: /translate/
 ---
