@@ -11,4 +11,6 @@ actions:
     link: /math/
   - text: 汉英翻译
     link: /translate/
+  - text: 西方音乐
+    link: /music/
 ---
