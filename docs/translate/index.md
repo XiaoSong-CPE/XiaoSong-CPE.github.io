@@ -9,7 +9,7 @@
 ## Notizen
 
 ::: tip
-Die Zahlen beginnen bei 1 statt bei 2.
+Die Zahlen beginnen bei `1` statt bei `2`.
 :::
 
 - [Wochen 1](1.md)
