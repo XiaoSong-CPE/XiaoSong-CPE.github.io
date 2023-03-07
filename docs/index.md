@@ -7,6 +7,8 @@ actions:
     link: /deutsch/
   - text: 汉英翻译
     link: /translate/
+  - text: 现代英语
+    link: c-en
   - text: 西方音乐
     link: music
     type: secondary
