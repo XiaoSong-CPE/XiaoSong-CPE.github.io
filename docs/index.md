@@ -12,5 +12,6 @@ actions:
   - text: 汉英翻译
     link: /translate/
   - text: 西方音乐
-    link: /music/
+    link: westen-music
+    type: secondary
 ---
