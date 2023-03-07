@@ -8,7 +8,7 @@ actions:
   - text: 汉英翻译
     link: /translate/
   - text: 西方音乐
-    link: westen-music
+    link: music
     type: secondary
   - text: 数学方法
     link: math
