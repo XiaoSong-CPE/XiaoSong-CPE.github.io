@@ -1,5 +1,5 @@
 # History of Westen Music
 
-::: error German
-This page is only supports German. Please change web language.
+::: danger German
+This page supports German only. Please change the web language.
 :::
