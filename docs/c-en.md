@@ -113,20 +113,20 @@ wriggle
 
 ### Fragen
 
-- Why does the author choose “nettles” as the title of the story? What is the meaning?
-  - “nettles” are the key symbol in which Mike and I hide from the haevy rain in the climax of the story, which represent the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
+- Why did the author choose "nettles" as the title of the story? What does it mean?
+  - Nettles" is the key symbol in which Mike and I hide from the heavy rain in the climax of the story, which represents the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
 
-- What is the narrative structure of the story? How does the author begin the narration? Do you find this beginning interesting or peculiar? Why or why not?
+- What is the narrative structure of the story? How does the author start the story? Do you find this beginning interesting or strange? Why or why not?
   - Narrative structure of the story
-    - Part 1 (1~2): meeting with old friend
-    - Part 2 (3~15): memories von childhood
-    - Part 3 (16~26): background of "my" family conflictions
-    - Part 4 (27~38): reunion with old friend
-    - Part 5 (39~49): feeling arose
-    - Part 6 (50~68): things happened between me and Mike
-    - Part 7 (69~90): the rain and Mike's pass
-    - Part 8 (91~95): after the rain and my feelings
-  - The narrative begins with author's meeting with her old friend, without explain any background. This is an interesting beginning because it attracts readers who wonder what happend or will happen between the two.
+    - Part 1 (1~2): Meeting an old friend
+    - Part 2 (3~15): Childhood memories
+    - Part 3 (16~26): Background of "my" family conflicts
+    - Part 4 (27~38): Meeting with old friend
+    - Part 5 (39~49): Feeling arose
+    - Part 6 (50~68): What happened between me and Mike
+    - Part 7 (69~90): The rain and Mike's pass
+    - Part 8 (91~95): After the rain and my feelings
+  - The narrative begins with the author meeting her old friend without any explanation of the background. This is an interesting beginning, because it attracts readers who wonder what has happened or will happen between the two.
 
 ## The One Against the Many
 
