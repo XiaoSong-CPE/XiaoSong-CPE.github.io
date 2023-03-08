@@ -15,6 +15,7 @@
     "vuepress-plugin-autobar": "github:boboidream/vuepress-bar"
   },
   "dependencies": {
+    "markdown-it-deflist": "^2.1.0",
     "moment": "^2.29.4"
   }
 }

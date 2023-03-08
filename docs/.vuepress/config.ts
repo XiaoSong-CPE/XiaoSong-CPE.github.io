@@ -1,7 +1,11 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
+import markdownItDeflist from 'markdown-it-deflist';
 
 export default defineUserConfig({
+    extendsMarkdown: (md) => {
+        md.use(markdownItDeflist)
+    },
     locales: {
         // 键名是该语言所属的子路径
         // 作为特例，默认语言可以使用 '/' 作为其路径。
@@ -42,7 +46,7 @@ export default defineUserConfig({
                         link: '/deutsch/',
                     },
                 ],
-                sidebar:false,
+                sidebar: false,
             },
             '/en/': {
                 selectLanguageName: 'English',

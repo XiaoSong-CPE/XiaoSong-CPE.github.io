@@ -114,7 +114,7 @@ wriggle
 ### Fragen
 
 - Why did the author choose "nettles" as the title of the story? What does it mean?
-  - Nettles" is the key symbol in which Mike and I hide from the heavy rain in the climax of the story, which represents the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
+  - "Nettles" is the key symbol in which Mike and I hide from the heavy rain in the climax of the story, which represents the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
 
 - What is the narrative structure of the story? How does the author start the story? Do you find this beginning interesting or strange? Why or why not?
   - Narrative structure of the story
