@@ -128,6 +128,15 @@ wriggle
     - Part 8 (91~95): After the rain and my feelings
   - The narrative begins with the author meeting her old friend without any explanation of the background. This is an interesting beginning, because it attracts readers who wonder what has happened or will happen between the two.
 
+1. How did the narrator and Mike become good friends?
+: When they were young they played together.
+
+2. Why did she and Mike wash the dog, Ranger, in tomato juice? 
+: Because Ranger chased a skunk, and the skunk turned and sprayed him. Mike did so, so as to clean her up.
+
+3. They played a game of war with other boys and girls. Retell this part of the story in your own words. How important is this memory to the narrator?
+: One boy and one girl group as a team. Boys throw clay cannon to each others while girls produce the clay munition and nurse "wounded" boys.
+
 ## The One Against the Many
 
 ## How to Get the Poor off Our Conscience
