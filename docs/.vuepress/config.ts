@@ -45,7 +45,20 @@ export default defineUserConfig({
                         text: '德语学习',
                         link: '/deutsch/',
                     },
-                ]
+                ],
+                sidebar: {
+                    '/english/': [
+                        {
+                            text: '现代英语',
+                            children: [
+                                {
+                                    text: '课本6',
+                                    children: ['B6U4_Nettles.md']
+                                }
+                            ]
+                        }
+                    ]
+                }
             },
             '/en/': {
                 selectLanguageName: 'English',
