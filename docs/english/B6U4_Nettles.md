@@ -1,26 +1,32 @@
-# 现代英语
+# Nettles
 
-## Nettles
+## Structure
 
-### Structure
+Teil eins (1~2)
+: Meet oldfriends again (introduction to attract readers)
 
-teil eins (1~2): introduction to attract readers
+Teil zwai (3~15)
+: Memories von childhood
 
-teil zwai (3~15): memories von childhood
+Teil drei (16~26)
+: Background of "my" family conflictions
 
-teil drei (16~26): background of "my" family conflictions
+Teil fier (27~38)
+: Reunion with old friend
 
-teil fier (27~38): reunion with old friend
+Teil sechs (39~49)
+: Feeling arose
 
-teil sechs (39~49): feeling arose
+Teil sieben (50~68)
+: Things happened between me and Mike
 
-teil sieben (50~68): things happened between me and Mike
+Teil acht (69~90)
+: The rain and Mike's pass
 
-teil acht (69~90): the rain and Mike's pass
+Teil neun (91~95)
+: After the rain and "my" feelings
 
-teil neun (91~95): after the rain and my feelings
-
-### vocabulary
+## vocabulary
 
 **vocabulary von para 1 ~ 2**
 
@@ -111,7 +117,9 @@ lotion
 
 wriggle
 
-### Fragen
+## Fragen
+
+### Fragen von Ms Hee
 
 - Why did the author choose "nettles" as the title of the story? What does it mean?
   - "Nettles" is the key symbol in which Mike and I hide from the heavy rain in the climax of the story, which represents the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
@@ -128,19 +136,13 @@ wriggle
     - Part 8 (91~95): After the rain and my feelings
   - The narrative begins with the author meeting her old friend without any explanation of the background. This is an interesting beginning, because it attracts readers who wonder what has happened or will happen between the two.
 
-1. How did the narrator and Mike become good friends?
+### Exercises
+
+How did the narrator and Mike become good friends?
 : When they were young they played together.
 
-2. Why did she and Mike wash the dog, Ranger, in tomato juice? 
+Why did she and Mike wash the dog, Ranger, in tomato juice? 
 : Because Ranger chased a skunk, and the skunk turned and sprayed him. Mike did so, so as to clean her up.
 
-3. They played a game of war with other boys and girls. Retell this part of the story in your own words. How important is this memory to the narrator?
+They played a game of war with other boys and girls. Retell this part of the story in your own words. How important is this memory to the narrator?
 : One boy and one girl group as a team. Boys throw clay cannon to each others while girls produce the clay munition and nurse "wounded" boys.
-
-## The One Against the Many
-
-## How to Get the Poor off Our Conscience
-
-## ...Adress
-
-## Notes on the English Character

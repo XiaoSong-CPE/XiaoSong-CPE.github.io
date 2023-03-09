@@ -45,8 +45,7 @@ export default defineUserConfig({
                         text: '德语学习',
                         link: '/deutsch/',
                     },
-                ],
-                sidebar: false,
+                ]
             },
             '/en/': {
                 selectLanguageName: 'English',
