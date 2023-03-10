@@ -3,7 +3,7 @@
 ## Structure
 
 Teil eins (1~2)
-: Meet oldfriends again (introduction to attract --- readers)
+: Meet oldfriends again (introduction to attract readers)
 
 Teil zwai (3~15)
 : Memories von childhood

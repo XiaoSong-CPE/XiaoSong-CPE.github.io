@@ -4,7 +4,7 @@ import markdownItDeflist from 'markdown-it-deflist';
 
 export default defineUserConfig({
     extendsMarkdown: (md) => {
-        md.use(markdownItDeflist)
+        md({typographer: true}).use(markdownItDeflist)
     },
     locales: {
         // 键名是该语言所属的子路径
