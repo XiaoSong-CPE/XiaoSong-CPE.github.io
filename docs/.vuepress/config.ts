@@ -3,8 +3,12 @@ import { defaultTheme } from '@vuepress/theme-default'
 import markdownItDeflist from 'markdown-it-deflist';
 
 export default defineUserConfig({
+    markdown: {
+        typographer: true,
+        quotes: '„“‚‘'
+    },
     extendsMarkdown: (md) => {
-        md({typographer: true}).use(markdownItDeflist)
+        md.use(markdownItDeflist)
     },
     locales: {
         // 键名是该语言所属的子路径
