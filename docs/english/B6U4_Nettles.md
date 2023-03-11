@@ -1,4 +1,4 @@
-# Nettles --- 123
+# Nettles
 
 ## Structure
 
@@ -132,6 +132,7 @@ wriggle
    - By specifying the year (“1979”).
    - By indicating past perfect tense (“had met”).
 4. __In para. 29, why did the author say "I would have told her lies, anyway, or half lies."" ?__
+   - Because "I" don't want Sunny to know that my plausible decision made me feel bad, including "miss the children terribly" etc.
 5. __Translation of the sentence in para. 72: "Goldenrod, jewelweed with its red-and-yellow bells, and what I thought were flowering nettles with pinkish-purple clusters, and wild asters."__
    - 有金菊花，有形如红黄色铃铛的凤仙花，有我当时以为是荨麻盛开的粉紫色花团，还有紫菀花。
 
