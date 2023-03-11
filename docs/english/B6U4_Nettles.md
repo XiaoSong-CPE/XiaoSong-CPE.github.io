@@ -121,20 +121,19 @@ wriggle
 
 ### Fragen von Ms Hee
 
-- Why did the author choose "nettles" as the title of the story? What does it mean?
-  - "Nettles" is the key symbol in which Mike and I hide from the heavy rain in the climax of the story, which represents the relationship between Mike and I, that is, a relationship can be kept with distance but should not be too close.
-
-- What is the narrative structure of the story? How does the author start the story? Do you find this beginning interesting or strange? Why or why not?
-  - Narrative structure of the story
-    - Part 1 (1~2): Meeting an old friend
-    - Part 2 (3~15): Childhood memories
-    - Part 3 (16~26): Background of "my" family conflicts
-    - Part 4 (27~38): Meeting with old friend
-    - Part 5 (39~49): Feeling arose
-    - Part 6 (50~68): What happened between me and Mike
-    - Part 7 (69~90): The rain and Mike's pass
-    - Part 8 (91~95): After the rain and my feelings
-  - The narrative begins with the author meeting her old friend without any explanation of the background. This is an interesting beginning, because it attracts readers who wonder what has happened or will happen between the two.
+1. __Why did the author choose "nettles" as the title of the story? What does it mean?__
+   - In the story, "I" thought nettles were "pinkish-purple clusters", but they are actually "insignificant plants, with stalks wickedly outfitted with fine, fierce, skin-piercing and inflaming spines". In other words, nettles are something that give people a dreamy fantasy, but are actually not so good or e ven harmful. Stinging nettles represent the relationship between "I" and Mike, which is also dreamlike but harmful if it goes too deep.
+2. __What is the narrative structure of the story? How does the author start the story? Do you find this beginning interesting or strange? Why or why not?__
+   - The narrative structure of the story is basically chronological with some flashbacks.
+   - The author begins her story in a rather unusual way. She starts her narration from 1979 in the brief beginning paragraph.
+   - This allows her to infuse her stories with a sort of floating suspense, inducing the readers to continue.
+3. __How is the time shifted in para. 16?__
+   - By using scene or chapter breaks.
+   - By specifying the year (“1979”).
+   - By indicating past perfect tense (“had met”).
+4. __In para. 29, why did the author say "I would have told her lies, anyway, or half lies."" ?__
+5. __Translation of the sentence in para. 72: "Goldenrod, jewelweed with its red-and-yellow bells, and what I thought were flowering nettles with pinkish-purple clusters, and wild asters."__
+   - 有金菊花，有形如红黄色铃铛的凤仙花，有我当时以为是荨麻盛开的粉紫色花团，还有紫菀花。
 
 ### Exercises
 
