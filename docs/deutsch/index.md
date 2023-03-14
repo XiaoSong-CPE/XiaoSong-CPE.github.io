@@ -19,4 +19,5 @@ actions:
 |beauftragen|v|to hire|
 |Werwolf|m|werewolf|
 |entdecken|v|to discover|
+|grausam||
 ![alt text](./IMG_20230314_082242.jpg)
