@@ -34,4 +34,5 @@ actions:
 |die Bemühung|effort|
 |fehlschlagen|to go wrong|
 |entschließen|to decide|
+|gründen|to found|
 ![alt text](./IMG_20230314_082242.jpg)
