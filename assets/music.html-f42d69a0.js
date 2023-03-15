@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a519346e","path":"/de/music.html","title":"","lang":"de","frontmatter":{},"headers":[{"level":2,"title":"Musik Buch","slug":"musik-buch","link":"#musik-buch","children":[]}],"git":{"updatedTime":1678269031000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":1}]},"filePathRelative":"de/music.md"}');export{e as data};

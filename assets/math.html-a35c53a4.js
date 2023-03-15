@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as o,R as e,t as s}from"./framework-96b046e1.js";const _={},a=e("p",null,[s("密码："),e("code",null,"tq12")],-1),n=[a];function l(r,d){return c(),o("div",null,n)}const f=t(_,[["render",l],["__file","math.html.vue"]]);export{f as default};

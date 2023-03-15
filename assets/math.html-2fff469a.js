@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-286db3f8","path":"/math.html","title":"","lang":"zh","frontmatter":{},"headers":[],"git":{"updatedTime":1678153094000,"contributors":[{"name":"Karsten Zhou","email":"54686209+XiaoSong-CPE@users.noreply.github.com","commits":1}]},"filePathRelative":"math.md"}');export{t as data};

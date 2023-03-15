@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f2b175ee","path":"/en/dairy/","title":"","lang":"en","frontmatter":{"home":true,"heroText":"My Dairy","tagline":"Dairy is encrypted"},"headers":[],"git":{"updatedTime":1675164696000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":1}]},"filePathRelative":"en/dairy/index.md"}');export{e as data};

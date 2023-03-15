@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4b784231","path":"/de/dairy/","title":"","lang":"de","frontmatter":{"home":true,"heroText":"Mein Tagebuch","tagline":"Tagebuch ist verschlüsselt"},"headers":[],"git":{"updatedTime":1675164696000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":1}]},"filePathRelative":"de/dairy/index.md"}');export{e as data};

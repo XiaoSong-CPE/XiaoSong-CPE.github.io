@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d9586be","path":"/en/music.html","title":"History of Westen Music","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":1678269569000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"en/music.md"}');export{e as data};

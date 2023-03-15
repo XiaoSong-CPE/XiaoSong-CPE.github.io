@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.60">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>康康笔记</title><meta name="description" content="Vue 驱动的静态网站生成器">
+    <link rel="preload" href="/assets/style-60c7ced0.css" as="style"><link rel="stylesheet" href="/assets/style-60c7ced0.css">
+    <link rel="modulepreload" href="/assets/app-05f4f18d.js"><link rel="modulepreload" href="/assets/framework-96b046e1.js"><link rel="modulepreload" href="/assets/404.html-46166703.js"><link rel="modulepreload" href="/assets/404.html-7f16e711.js"><link rel="prefetch" href="/assets/index.html-c5cff3cb.js" as="script"><link rel="prefetch" href="/assets/math.html-2fff469a.js" as="script"><link rel="prefetch" href="/assets/music.html-97fbce7c.js" as="script"><link rel="prefetch" href="/assets/index.html-f4b9c816.js" as="script"><link rel="prefetch" href="/assets/index.html-11954416.js" as="script"><link rel="prefetch" href="/assets/music.html-f42d69a0.js" as="script"><link rel="prefetch" href="/assets/Einheit 1.html-0fbb16d2.js" as="script"><link rel="prefetch" href="/assets/Einheit 2.html-bcdd1e4e.js" as="script"><link rel="prefetch" href="/assets/index.html-c4554453.js" as="script"><link rel="prefetch" href="/assets/index.html-00877b7f.js" as="script"><link rel="prefetch" href="/assets/music.html-010a50a7.js" as="script"><link rel="prefetch" href="/assets/B6U4_Nettles.html-eaeab1cb.js" as="script"><link rel="prefetch" href="/assets/index.html-b2a56680.js" as="script"><link rel="prefetch" href="/assets/1.html-9a90f421.js" as="script"><link rel="prefetch" href="/assets/10.html-bc8bd685.js" as="script"><link rel="prefetch" href="/assets/11.html-1d95aec6.js" as="script"><link rel="prefetch" href="/assets/12.html-5008c76f.js" as="script"><link rel="prefetch" href="/assets/13.html-71b28e0c.js" as="script"><link rel="prefetch" href="/assets/14.html-c8ecaf7e.js" as="script"><link rel="prefetch" href="/assets/15.html-eb624b4a.js" as="script"><link rel="prefetch" href="/assets/2.html-cc09cc78.js" as="script"><link rel="prefetch" href="/assets/3.html-fed3c714.js" as="script"><link rel="prefetch" href="/assets/4.html-50ce2d97.js" as="script"><link rel="prefetch" href="/assets/5.html-3f92d072.js" as="script"><link rel="prefetch" href="/assets/6.html-a296792b.js" as="script"><link rel="prefetch" href="/assets/7.html-88b21ee5.js" as="script"><link rel="prefetch" href="/assets/8.html-26880d4f.js" as="script"><link rel="prefetch" href="/assets/9.html-89859a07.js" as="script"><link rel="prefetch" href="/assets/index.html-0393def5.js" as="script"><link rel="prefetch" href="/assets/2023-02-06.html-23181aa5.js" as="script"><link rel="prefetch" href="/assets/2023-02-09.html-e9c23c82.js" as="script"><link rel="prefetch" href="/assets/2023-02-23.html-0db392bd.js" as="script"><link rel="prefetch" href="/assets/index.html-47dd5dae.js" as="script"><link rel="prefetch" href="/assets/index.html-8bb871f1.js" as="script"><link rel="prefetch" href="/assets/index.html-90bcd5e6.js" as="script"><link rel="prefetch" href="/assets/index.html-d3405851.js" as="script"><link rel="prefetch" href="/assets/math.html-a35c53a4.js" as="script"><link rel="prefetch" href="/assets/music.html-682f0ba5.js" as="script"><link rel="prefetch" href="/assets/index.html-ed28f613.js" as="script"><link rel="prefetch" href="/assets/index.html-421116f5.js" as="script"><link rel="prefetch" href="/assets/music.html-5993bf9d.js" as="script"><link rel="prefetch" href="/assets/Einheit 1.html-bb1db689.js" as="script"><link rel="prefetch" href="/assets/Einheit 2.html-c92ca31e.js" as="script"><link rel="prefetch" href="/assets/index.html-ea71691e.js" as="script"><link rel="prefetch" href="/assets/index.html-665ac2e0.js" as="script"><link rel="prefetch" href="/assets/music.html-1cb45170.js" as="script"><link rel="prefetch" href="/assets/B6U4_Nettles.html-00088aab.js" as="script"><link rel="prefetch" href="/assets/index.html-a529dd41.js" as="script"><link rel="prefetch" href="/assets/1.html-6bf3ab28.js" as="script"><link rel="prefetch" href="/assets/10.html-a572a39e.js" as="script"><link rel="prefetch" href="/assets/11.html-1be84a79.js" as="script"><link rel="prefetch" href="/assets/12.html-135f0328.js" as="script"><link rel="prefetch" href="/assets/13.html-b9f976f6.js" as="script"><link rel="prefetch" href="/assets/14.html-fd44982b.js" as="script"><link rel="prefetch" href="/assets/15.html-0dc74a5c.js" as="script"><link rel="prefetch" href="/assets/2.html-c3c97d14.js" as="script"><link rel="prefetch" href="/assets/3.html-0927b669.js" as="script"><link rel="prefetch" href="/assets/4.html-48e73c33.js" as="script"><link rel="prefetch" href="/assets/5.html-c232810b.js" as="script"><link rel="prefetch" href="/assets/6.html-30933726.js" as="script"><link rel="prefetch" href="/assets/7.html-1def2e7e.js" as="script"><link rel="prefetch" href="/assets/8.html-2d2a059c.js" as="script"><link rel="prefetch" href="/assets/9.html-8c5e3403.js" as="script"><link rel="prefetch" href="/assets/index.html-befbe929.js" as="script"><link rel="prefetch" href="/assets/2023-02-06.html-c363c4ee.js" as="script"><link rel="prefetch" href="/assets/2023-02-09.html-864ecd22.js" as="script"><link rel="prefetch" href="/assets/2023-02-23.html-9260af9d.js" as="script"><link rel="prefetch" href="/assets/index.html-4cebc863.js" as="script"><link rel="prefetch" href="/assets/index.html-3c9c40b6.js" as="script"><link rel="prefetch" href="/assets/index.html-cc3ce864.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>找不到网页</blockquote><a href="/" class="">返回主页</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app-05f4f18d.js" defer></script>
+  </body>
+</html>

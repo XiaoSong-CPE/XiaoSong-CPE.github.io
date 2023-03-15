@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c23e9ce6","path":"/music.html","title":"西方音乐史","lang":"zh","frontmatter":{},"headers":[],"git":{"updatedTime":1678269569000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":4},{"name":"Karsten Zhou","email":"54686209+XiaoSong-CPE@users.noreply.github.com","commits":4}]},"filePathRelative":"music.md"}');export{e as data};
