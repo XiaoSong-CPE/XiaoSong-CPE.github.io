@@ -136,8 +136,8 @@ wriggle
 5. __Translation of the sentence in para. 72: "Goldenrod, jewelweed with its red-and-yellow bells, and what I thought were flowering nettles with pinkish-purple clusters, and wild asters."__
    - 有金菊花，有形如红黄色铃铛的凤仙花，有我当时以为是荨麻盛开的粉紫色花团，还有紫菀花。
 6. __What is para. 94 about? Is it an important part of the whole story? Why?__
-   - Para. 94 is mainly about the narrator's perspective on the relationship between her and Mike.
-   - It is an important part of the whole story because this paragraph is almost at the end of the story, with the use of a variety of metaphorical language to express the narrator's feelings, making these subtle feelings unfamiliar to the reader, so that the reader has a deep space to think about it.
+   - Para. 94 is mainly about the narrator’s perspective on the relationship between her and Mike.
+   - It is an important part of the whole story because this paragraph is almost at the end of the story, with the use of a variety of metaphorical language to express the narrator's feelings, defamiliarising these subtle feelings, so that the reader has a deep after-reading thought.
 
 ### Exercises
 
