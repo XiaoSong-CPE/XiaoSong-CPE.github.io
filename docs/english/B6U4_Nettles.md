@@ -149,3 +149,37 @@ Why did she and Mike wash the dog, Ranger, in tomato juice?
 
 They played a game of war with other boys and girls. Retell this part of the story in your own words. How important is this memory to the narrator?
 : One boy and one girl group as a team. Boys throw clay cannon to each others while girls produce the clay munition and nurse "wounded" boys.
+
+## Paper Outline
+
+1. Introduction
+  - Introduce the story _Nettles_, its plot, characters, and setting.
+  - Explain the main research question: How to analyze the meaning and structure of narratives, the story _Nettles_ in this paper, by the approch of Greimas's deconstructive semiotics?
+
+2. Deconstructive Semiotics: A Theoretical Framework
+  - Introduce Greimas's deconstructive semiotics.
+  - Explain the concept of binary oppositions.
+  - Explain the concept of semiotic square.
+
+1. Binary Oppositions in _Nettles_
+  - Identify and analyze some binary oppositions that Munro establishes in _Nettles_, such as:
+    - Male/female
+    - Freedom/marriage
+    - Loyal/betrayal
+
+1. Semiotic Squares in _Nettles_
+  - Construct and analyze some semiotic squares based on the binary oppositions identified in Nettles, such as:
+
+```
+X     —   anti-X
+|     ×     |
+non-X — non-anti-X
+```
+
+|            | X                         | non-X                      | anti-X                   | non-anti-X               |
+| ---------- | ------------------------- | -------------------------- | ------------------------ | ------------------------ |
+| charactors | Narrator                  | Sunny                      | Mike                     | Narrator's husben        |
+| notes      | female, freedom, betrayer | female, marriage, loyalist | male, marriage, loyalist | male, freedom?, betrayee |
+
+1. Conclusion
+  - Summarize the main findings and arguments of the paper.
