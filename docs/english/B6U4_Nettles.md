@@ -1,5 +1,7 @@
 # Nettles
 
+- [Fulltext](nettles.md)
+
 ## Structure
 
 Teil eins (1~2)
@@ -178,7 +180,7 @@ non-X — non-anti-X
 
 |            | X                         | non-X                      | anti-X                   | non-anti-X               |
 | ---------- | ------------------------- | -------------------------- | ------------------------ | ------------------------ |
-| charactors | Narrator                  | Sunny                      | Mike                     | Narrator's husben        |
+| charactors | Narrator                  | Sunny                      | Mike                     | Narrator's husband?        |
 | notes      | female, freedom, betrayer | female, marriage, loyalist | male, marriage, loyalist | male, freedom?, betrayee |
 
 5. Conclusion

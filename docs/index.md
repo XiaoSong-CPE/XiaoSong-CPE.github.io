@@ -15,7 +15,4 @@ actions:
   - text: 数学方法
     link: math
     type: secondary
-  - text: 荨麻
-    link: nettles
-    type: secondary
 ---
