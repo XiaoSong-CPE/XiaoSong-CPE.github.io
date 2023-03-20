@@ -39,6 +39,39 @@ swear
 
 starch
 
+tod
+
+doily
+
+screech
+
+nimbly
+
+bluish
+
+whine
+
+slither
+
+radiator 
+
+shudder
+
+singe
+
+plait
+
+wad 
+
+gum 
+
+hump 
+
+abash
+
+sole
+: 鞋底
+
 land-grant
 : a grant of public land to a college, railway, etc (政府拨给学院、铁路等的)政府赠地
 
