@@ -114,6 +114,48 @@ bout
 covet
 : to want sth very much, especially sth that belongs to sb else 渴望；贪求（尤指别人的东西）；觊觎
 
+ashen
+: very pale; without colour because of illness or fear 面色苍白的；没有血色的
+
+telltale
+: showing that sth exists or has happened 暴露实情的；能说明问题的
+
+erode
+: to gradually destroy sth or make it weaker over a period of time; to be destroyed or made weaker in this way 逐渐毁坏；削弱；损害
+
+curbstone
+: a block of stone or concrete in a curb/ kerb 路缘石
+
+jackknife
+: a large knife with a folding blade 大折刀
+
+laurel
+: honour and praise given to sb because of sth that they have achieved 荣誉；赞誉；荣耀
+
+
+: 
+
+
+: 
+
+
+: 
+
+
+: 
+
+
+: 
+
+
+: 
+
+
+: 
+
+
+: 
+
 
 : 
 
