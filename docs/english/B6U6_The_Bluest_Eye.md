@@ -214,3 +214,15 @@ laurel
 
 4. **What is the end of the story?**
   - The end of the story is tragic. Pecola's baby dies shortly after birth and she becomes an outcast in the community. She spends the rest of her life talking to herself and an imaginary friend about her blue eyes.
+
+## Summary of a [Video](https://v.youku.com/v_show/id_XNTEyMjk4MigxNg==.html)
+
+- __Novel Plot__: A young black girl, whose family instilled in her the notion of 'white aesthetics', believes her prayers for blue eyes have been answered, causing cause her to become delusional.
+- __Writting Background__: _The Bluest Eye_ is political in nature, reflecting the cultural politics of the late 60s and 70s.
+- __Questions__
+  - Why Toni Morrison chose to write a novel instead of a tract or becoming a sociologist or politician?
+    - To allow the voices of the oppressed to speak.
+    - To push the boundaries of what’s credible and see the abject clearly.
+    - To generate sympathy, even for characters who have committed terrible acts.
+  - Does sentiment remain important in Morison’s work despite the irony and humor?
+    - Yes. Morrison’s work is less focused on irony and more on the effects of oppression and injustice, with humor often tinged with darkness and coming from the specific language of the characters.
