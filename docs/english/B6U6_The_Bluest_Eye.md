@@ -142,7 +142,7 @@ coo
 : When someone __coos__, they speak in a very soft, quiet voice which is intended to sound attractive. 低声细语地说
 
 bout
-: If you have a bout of an illness or of an unpleasant feeling, you have it for a short period. (疾病或不愉快情绪) 发作
+: If you have a __bout__ of an illness or of an unpleasant feeling, you have it for a short period. (疾病或不愉快情绪) 发作
 
 covet
 : to want sth very much, especially sth that belongs to sb else 渴望；贪求（尤指别人的东西）；觊觎

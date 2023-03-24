@@ -57,7 +57,7 @@ export default defineUserConfig({
                             children: [
                                 {
                                     text: '课本6',
-                                    children: ['B6U4_Nettles.md']
+                                    children: ['B6U4_Nettles.md','B6U6_The_Bluest_Eye.md']
                                 }
                             ]
                         }
