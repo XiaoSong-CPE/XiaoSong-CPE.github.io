@@ -4,40 +4,59 @@
 
 ## Vokabeln
 hymn
+: If you describe a film, book, or speech as a __hymn__ to something, you mean that it praises or celebrates that thing. 颂歌
 
-sly 
+sly
+: A __sly__ look, expression, or remark shows that you know something that other people do not know or that was meant to be a secret. (眼神、表情或话语) 会意的
 
 hollyhock
+: Althaea rosea. 蜀葵 (Also called (US) rose mallow)
 
 scythe
+: A __scythe__ is a tool with a long curved blade at right angles to a long handle. It is used to cut long grass or grain. 长柄大镰刀
+: If you __scythe__ grass or grain, you cut it with a scythe. 用长柄大镰刀割(草或庄稼)
 
 stalk
+: The __stalk__ of a flower, leaf, or fruit is the thin part that joins it to the plant or tree. (花、叶、果实与植株相连的) 柄; 梗
 
 gainful
+: If you are in __gainful__ employment, you have a job for which you are paid. 有报酬的
 
 porch
+: A __porch__ is a sheltered area at the entrance to a building. It has a roof and sometimes has walls. 门廊
+: A __porch__ is a raised platform built along the outside wall of a house and often covered with a roof. 走廊
 
 snap bean
+: any of various bean plants that are cultivated in the US for their crisp edible unripe pods (美国种植的)食荚菜豆
 
 wagon
+: A __wagon__ is a strong vehicle with four wheels, usually pulled by horses or oxen and used for carrying heavy loads. 四轮运货马 (或牛) 车
+: A __wagon__ is a large container on wheels which is pulled by a train. (火车的) 货车车厢
 
 lifebuoy
+: a piece of material that floats well, used to rescue sb who has fallen into water, by keeping them above water 救生带；救生圈
 
 cashmere
+: __Cashmere__ is a kind of very fine, soft wool. 开士米羊绒
 
 soprano
-
-starched
+: A __soprano__ is a woman, girl, or boy with a high singing voice. 女高音; 男童声高音
 
 fretful
+: If someone is __fretful__, they behave in a way that shows that they are worried or unhappy about something. 烦躁不安的
 
-talc
+talc = talcum powder
+: __Talcum powder__ is fine powder with a pleasant smell which people put on their bodies to keep their skin dry after washing. 爽身粉
 
 vanilla
+: __Vanilla__ is a flavoring used in ice cream and other sweet food. 香草
 
 swear
+: If someone __swears__, they use language that is considered to be vulgar or offensive, usually because they are angry. 咒骂
 
 starch
+: starch prepared in powder form or as a spray and used for making clothes, sheets, etc. stiff （浆衣服、床单等用的）淀粉浆
+: to make clothes, sheets, etc. stiff using starch 把（衣服、床单等）浆一浆
 
 tod
 
