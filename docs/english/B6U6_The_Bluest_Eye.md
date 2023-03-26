@@ -222,17 +222,20 @@ laurel
 
 ## Fragen
 
-1. **What did Pecola's mother do when she escaped from family?**
+- **What did Pecola's mother do when she escaped from family?**
   - Pecola's mother escapes from her family by going to work as a maid for a white family.
-
-2. **What are pecola's wishes? What does she pray for the miracle?**
+- **What are pecola's wishes? What does she pray for the miracle?**
   - Pecola's wishes are to have blue eyes and to be loved. She prays for a miracle to make this happen.
-
-3. **What does she think when she has gone crazy?**
+- **What does she think when she has gone crazy?**
   - After being raped by her father and becoming pregnant with his child, Pecola goes insane. She believes that she has finally received her blue eyes and that everyone is now envious of her beauty.
-
-4. **What is the end of the story?**
+- **What is the end of the story?**
   - The end of the story is tragic. Pecola's baby dies shortly after birth and she becomes an outcast in the community. She spends the rest of her life talking to herself and an imaginary friend about her blue eyes.
+- **What do you think of the three themes --- love is never any better than the lover**
+  - “Love is never any better than the lover” means that the quality of love depends on the person giving it. This theme is shown in the relationship between Pecola and her parents, who are unable to love her properly because they are damaged individuals.
+- **Describe the three characters in the story --- Pecola, Geraldine and Junior.**
+  - __Pecola__: A little black girl who is always alone at school. She seems to like non-human creatures (attracted to kittens) and is not very brave (prone to crying and not able to tell the truth).
+  - __Geraldine__: A light-skinned black woman who considers herself and her family superior to other black families. Her only real affection is for her cat.
+  - __Junior__: A light-skinned little black boy who is the son of Geraldine. He is a mischievous school bully with high self-esteem (do not tell the truth about being beaten up by black girls).
 
 ## Summary of a [Video](https://v.youku.com/v_show/id_XNTEyMjk4MigxNg==.html)
 

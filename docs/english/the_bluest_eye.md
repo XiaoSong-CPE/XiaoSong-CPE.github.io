@@ -40,7 +40,9 @@ Nobody can come through this yard less I say so."
 
 "The girl started to walk away."
 
-"Wait." Junior walked toward her. "You can play in it if you want to. What's yourd name?""Pecola. I don't want to play."
+"Wait." Junior walked toward her. "You can play in it if you want to. What's yourd name?"
+
+"Pecola. I don't want to play."
 
 "Come on. I'm not going to bother you."
 
@@ -48,7 +50,9 @@ Nobody can come through this yard less I say so."
 
 "Say, you want to see something? I got something to show you."
 
-"No. What is it?""Come on in my house. See, I live right there. Come on. I'll show you."
+"No. What is it?"
+
+"Come on in my house. See, I live right there. Come on. I'll show you."
 
 "Show me what?"
 
