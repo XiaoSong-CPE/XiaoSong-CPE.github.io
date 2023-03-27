@@ -18,16 +18,6 @@ export default defineUserConfig({
             title: '康康笔记',
             description: 'Vue 驱动的静态网站生成器',
         },
-        '/en/': {
-            lang: 'en',
-            title: `Karsten's Blog`,
-            description: 'Vue-powered Static Site Generator',
-        },
-        '/de/': {
-            lang: 'de',
-            title: `Karstens Blog`,
-            description: 'Vue-gesteuerter Generator für statische Sites',
-        },
     },
     theme: defaultTheme({
         repo: 'XiaoSong-CPE/XiaoSong-CPE.github.io',
