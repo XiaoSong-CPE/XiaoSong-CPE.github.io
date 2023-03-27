@@ -64,60 +64,6 @@ export default defineUserConfig({
                     ]
                 }
             },
-            '/en/': {
-                selectLanguageName: 'English',
-                selectLanguageText: 'Languages',
-                navbar: [
-                    {
-                        text: 'My Dairy',
-                        link: '/en/dairy/',
-                    }, {
-                        text: 'German Learning',
-                        link: '/en/deutsch/',
-                    },
-                ],
-                sidebar: {
-                    '/dairy/': [
-                        {
-                            text: 'My Dairy',
-                            children: [],
-                        },
-                    ],
-                    '/deutsch/': [
-                        {
-                            text: 'German Learning',
-                            children: ['/en/deutsch/Einheit 1.md', '/en/deutsch/Einheit 2.md'],
-                        },
-                    ],
-                },
-            },
-            '/de/': {
-                selectLanguageName: 'Deutsch',
-                selectLanguageText: 'Sprache',
-                navbar: [
-                    {
-                        text: 'Mein Tagebuch',
-                        link: '/de/dairy/',
-                    }, {
-                        text: 'Deutsch Lernen',
-                        link: '/de/deutsch/',
-                    },
-                ],
-                sidebar: {
-                    '/de/dairy/': [
-                        {
-                            text: 'Mein Tagebuch',
-                            children: [],
-                        },
-                    ],
-                    '/de/deutsch/': [
-                        {
-                            text: 'Deutsch Lernen',
-                            children: ['/de/deutsch/Einheit 1.md', '/de/deutsch/Einheit 2.md'],
-                        },
-                    ],
-                },
-            },
         },
     }),
 })
