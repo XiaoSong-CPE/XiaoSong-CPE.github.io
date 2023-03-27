@@ -25,8 +25,6 @@ export default defineUserConfig({
         docsDir: 'docs',
         locales: {
             '/': {
-                selectLanguageName: '简体中文',
-                selectLanguageText: '语言',
                 lastUpdatedText: '上次更新',
                 contributorsText: '贡献者',
                 notFound: ['找不到网页'],
