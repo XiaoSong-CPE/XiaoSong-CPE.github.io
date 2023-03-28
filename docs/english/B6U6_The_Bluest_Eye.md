@@ -107,7 +107,7 @@ funky
 : Something that is funky has a strong, offensive odour. 恶臭
 
 crust
-: cover with a hard outer layer.
+: A __crust__ is a hard layer of something, especially on top of a softer or wetter substance. 硬外壳
 
 enunciation 
 : pronouncing (words) especially clearly and distinctly.
