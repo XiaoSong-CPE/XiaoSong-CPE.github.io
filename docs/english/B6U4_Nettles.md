@@ -1,7 +1,5 @@
 # Nettles
 
-- [Fulltext](nettles.md)
-
 ## Structure
 
 Teil eins (1~2)

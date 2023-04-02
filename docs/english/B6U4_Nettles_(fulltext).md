@@ -8,6 +8,8 @@ In the summer of 1979, I walked into the kitchen of my friend Sunny's house near
 
 Years afterward, driving around in the hills northeast of Toronto with another man, I looked for the house. I tried to locate the road it was on, but I never succeeded. It had probably been torn down. Sunny and her husband sold it, a few years after I visited them. It was too far from Ottawa, where they lived, to serve as a convenient summer place.
 
+----
+
 In the countryside where I lived as a child, wells would occasionally go dry in the summer. Our well was deeper than most, but we needed a good supply of water for our penned animals — my father raised silver foxes and minkso one day the well-driller arrived with impressive equipment and began the work of extending the hole down, down, deep into the earth until the water was found in the rock. From that time on we could pump out pure cold water no matter what the time of year and no matter how dry the weather. There was a tin mug hanging on the pump, and when I drank from it, on a burning day, I thought of black rocks where the water ran sparkling like blackdiamonds.
 
 The well-driller was a man named Mike McCallum. He lived in the ClarkHotel, in the town close to our farm. He had come there in the spring and hewould stay until he finished up whatever work he found to do in this part ofthe country. Then he would move on.
@@ -57,6 +59,8 @@ For a while they did not complain. The older one said to the younger one, "Let M
 I went back to living as I had lived before they came. I stopped cooking breakfast and went out every morning to get coffee and fresh rolls at the Italian deli. Back home, I would sit and write for hours at a wooden table under the windows of a former sun porch. Outside the windows, as it got dark, the back-yard parties would begin, with music and shouting and provocations that later might develop into fights, and I would be frightened, not of any hostility but of a kind of nonexistence.
 
 In one of these moods, I phoned Sunny, and got the invitation to spend the weekend in the country.
+
+----
 
 "It's beautiful here," I said. But the country we were driving through meant nothing to me. The hills were a series of green bumps, some with cows. There were low concrete bridges over weed-covered streams. Hay was harvested in a new way, rolled up and left in the fields.
 
