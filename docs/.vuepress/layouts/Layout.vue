@@ -25,7 +25,13 @@ function timeLocalize(lang, date) {
 <template>
     <ParentLayout>
         <template #page-content-top>
+            <!-- 如果是日记 -->
             {{ timeLocalize($lang, $frontmatter.date) }}
+            <!-- 如果是课文 -->
+            <h1 v-if="$frontmatter.type === 'fulltext'">
+                {{ $frontmatter.title }}
+                <span style=" opacity: 70%; font-size: 50%; white-space: nowrap; ">{{ $frontmatter.author }}</span>
+            </h1>
         </template>
     </ParentLayout>
 </template>

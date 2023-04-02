@@ -1,7 +1,5 @@
 # The Bluest Eye
 
-- [Fulltext](the_bluest_eye.md)
-
 ## Vokabeln
 hymn
 : If you describe a film, book, or speech as a __hymn__ to something, you mean that it praises or celebrates that thing. 颂歌

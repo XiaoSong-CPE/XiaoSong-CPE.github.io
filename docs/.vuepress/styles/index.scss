@@ -1,11 +1,29 @@
-.page .theme-default-content {
-    padding: 2rem;
-}
+.page {
+    .theme-default-content {
+        counter-reset: section;
 
-dd {
-    background-color: var(--c-text);
-}
+        p {
+            text-indent: 2em;
+            text-align: justify;
+            position: relative;
+        }
 
-dd:hover {
-    background-color: transparent;
+        p::before {
+            counter-increment: section;
+            content: counter(section, decimal-leading-zero);
+            text-indent: 0;
+            position: absolute;
+            left: 0;
+            opacity: 48%;
+            font-size: xx-small;
+        }
+
+        dd {
+            background-color: var(--c-text);
+
+            &:hover {
+                background-color: transparent;
+            }
+        }
+    }
 }

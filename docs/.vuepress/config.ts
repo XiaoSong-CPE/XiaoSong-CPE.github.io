@@ -44,8 +44,8 @@ export default defineUserConfig({
                             text: '现代英语',
                             children: [
                                 {
-                                    text: '课本6',
-                                    children: ['B6U4_Nettles.md','B6U6_The_Bluest_Eye.md']
+                                    text: 'Book 6',
+                                    children: ['B6U4_Nettles.md','B6U9_The_Bluest_Eye.md']
                                 }
                             ]
                         }

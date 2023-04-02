@@ -1,4 +1,8 @@
-# The Bluest Eye
+---
+type: fulltext
+title: The Bluest Eye
+author: Toni Morrison
+---
 
 They come from Mobile. Aiken. From Newport News. From Marietta. From Meridian. And the sounds of these places in their mouths make you think of love. When you ask them where they are from, they tilt their heads and say "Mobile" and you think you've been kissed. They say "Aiken" and you see a white butterfly glance off a fence with a torn wing. They say "Nagadoches" and you want to say "Yes, I will. " You don't know what these towns are like, but you love what happens to the air when they open their lips and let the names ease out.
 
@@ -30,9 +34,11 @@ When the mood struck him, he would call a child passing by to come play on the s
 
 Alternately bored and frightened at home, the playground was his joy. On a day when he had been especially idle, he saw a very black girl taking a shortcut through the playground. She kept her head down as she walked. He had seen her many times before, standing alone, always alone, at recess. Nobody ever played with her. Probably, he thought, because she was ugly.
 
-Now Junior called to her. "Hey! What are you doing walking through my yard?"The girl stopped."
+Now Junior called to her. "Hey! What are you doing walking through my yard?"
 
-Nobody can come through this yard less I say so."
+The girl stopped.
+
+"Nobody can come through this yard less I say so."
 
 "This ain't your yard. It's the school's."
 
@@ -62,11 +68,11 @@ Nobody can come through this yard less I say so."
 
 "Yeah. Come on."
 
-He pulled gently at her dress. Pecola began to move toward his house. When he knew she had agreed, Junior ran ahead excitedly, stopping only to yell back at her tod come on. He held the door open for her, smiling his encouragement. Pecola climbed the porch stairs and hesitated there, afraid to follow him. The house looked dark. Junior said, "There's nobody here. My ma's gone out, and my father's at work. Don't you want to see the kittens?"Junior turned on the lights. Pecola stepped inside the door.
+He pulled gently at her dress. Pecola began to move toward his house. When he knew she had agreed, Junior ran ahead excitedly, stopping only to yell back at her tod come on. He held the door open for her, smiling his encouragement. Pecola climbed the porch stairs and hesitated there, afraid to follow him. The house looked dark. Junior said, "There's nobody here. My ma's gone out, and my father's at work. Don't you want to see the kittens?"
 
-How beautiful, she thought. What a beautiful house. There was a big red-and-gold Bible on the dining-room table. Little lace doilies were everywhere—on arms and backs of chairs, in the center of a large dining table, on little tables. Potted plants were on all the windowsill. A color picture of Jesus Christ hung on a wall with the prettiest paper flowers fastened on the frame. She wanted to see everything slowly, slowly. But Junior kept saying. "Hey, you. Come on. Come on.
+Junior turned on the lights. Pecola stepped inside the door.
 
-"He pulled her into another room, even more beautiful than the first. More doilies, a big lamp with green-and-gold base and white shade. There was even a rug on the floor, with enormous dark-red flowers. She was deep in admiration of the flowers when Junior said, "Here!" Pecola turned. "Here is your kitten!" he screeched. And he threw a big black cat right in her face. She sucked in her breath in fear and surprise and felt fur in her mouth. The cat clawed her face and chest in an effort to right itself, then leaped nimbly to the floor.
+How beautiful, she thought. What a beautiful house. There was a big red-and-gold Bible on the dining-room table. Little lace doilies were everywhere—on arms and backs of chairs, in the center of a large dining table, on little tables. Potted plants were on all the windowsill. A color picture of Jesus Christ hung on a wall with the prettiest paper flowers fastened on the frame. She wanted to see everything slowly, slowly. But Junior kept saying. "Hey, you. Come on. Come on." He pulled her into another room, even more beautiful than the first. More doilies, a big lamp with green-and-gold base and white shade. There was even a rug on the floor, with enormous dark-red flowers. She was deep in admiration of the flowers when Junior said, "Here!" Pecola turned. "Here is your kitten!" he screeched. And he threw a big black cat right in her face. She sucked in her breath in fear and surprise and felt fur in her mouth. The cat clawed her face and chest in an effort to right itself, then leaped nimbly to the floor.
 
 Junior was laughing and running around the room clutching his stomach delightedly. Pecola touched the scratched place on her face and felt tears coming. When she started toward the doorway, Junior leaped in front of her.
 
@@ -78,7 +84,9 @@ Junior was laughing and running around the room clutching his stomach delightedl
 
 The tears came fast, and she held her face in her hands. When something soft and furry moved around her ankles, she jumped, and saw it was the cat. He wound himself in and about her legs. Momentarily distracted from her fear, she squatted down to touch him, her hands wet from the tears. The cat rubbed up against her knee. He was black all over, deep silky black, and his eyes, pointing down toward his nose, were bluish green. The light made them shine like blue ice. Pecola rubbed the cat's head; he whined, his tongue flicking with pleasure. The blue eyes in the black face held her.
 
-Junior, curious at not hearing her sobs, opened the door, and saw her squatting down rubbing the cat's back. He saw the cat stretching its head and flattening its eyes. He had seen that expression many times as the animal responded to his mother's touch."Gimme my cat!" His voice broke. With a movement both awkward and sure he snatched the cat by one of its hind legs and began to swing it around his head in a circle.
+Junior, curious at not hearing her sobs, opened the door, and saw her squatting down rubbing the cat's back. He saw the cat stretching its head and flattening its eyes. He had seen that expression many times as the animal responded to his mother's touch.
+
+"Gimme my cat!" His voice broke. With a movement both awkward and sure he snatched the cat by one of its hind legs and began to swing it around his head in a circle.
 
 "Stop that!" Pecola was screaming. The cat's free paws were stiffened, ready to grab anything to restore balance, its mouth wide, its eyes blue streaks of horror.
 
