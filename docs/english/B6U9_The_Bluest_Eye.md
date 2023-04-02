@@ -212,32 +212,6 @@ dime store = five-and-dime
 girdle
 : A __girdle__ is a piece of women's underwear that fits tightly around the stomach and hips. 紧身褡
 
-: 
-
-
-: 
-
-
-: 
-
-
-: 
-
-
-: 
-
-
-: 
-
-
-: 
-
-
-
-
-
-
-
 ## Fragen
 
 - **What did Pecola's mother do when she escaped from family?**
@@ -254,6 +228,11 @@ girdle
   - __Pecola__: A little black girl who is always alone at school. She seems to like non-human creatures (attracted to kittens) and is not very brave (prone to crying and not able to tell the truth).
   - __Geraldine__: A light-skinned black woman who considers herself and her family superior to other black families. Her only real affection is for her cat.
   - __Junior__: A light-skinned little black boy who is the son of Geraldine. He is a mischievous school bully with high self-esteem (do not tell the truth about being beaten up by black girls).
+- **What is the implication of the sentence: "Grass wouldn’t grow where they lived. Flowers died. Shades fell down. Tin cans and tires blossomed where they lived."**
+  - __"Grass wouldn’t grow where they lived"__ and __"Flowers died"__ using personification suggests that living things could hardly survive where black children lived, implying that it's the environment that makes black children look disgusting (para. 48) or behave indecently, rather than their skin colour or something at birth.
+  - __"Shades fell down"__ refers to broken window shades or blinds, symbolizing the black children's life is lack of sunlight and relatively isolated from other children group.
+  - __"Tin cans and tires blossomed"__ presents an ironic contrast between the natural beauty of the plants and the presence of man-made waste such as "tin cans and tires". This implies that it's white superiority (man-made waste) that prevents black children from having a normal life (grass and flowers).
+  - (<u>Note that all the words or terms used above have nothing to do with linguistics!</u>)
 
 ## Summary of a [Video](https://v.youku.com/v_show/id_XNTEyMjk4MigxNg==.html)
 
