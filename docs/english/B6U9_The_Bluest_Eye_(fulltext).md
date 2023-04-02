@@ -106,6 +106,6 @@ They were everywhere. They sat in little rows on street curbs, crowded into pews
 
 The cat shuddered and flicked his tail.
 
-Pecola backed out of the room, staring at the pretty milk-brown lady in the pretty gold-and-green house who was talking to her through the cat's fur. The pretty lady'swords made the cat fur move; the breath of each word parted the fur. Pecola turned to find the front door and saw Jesus looking down at her with sad and unsurprised eyes, his long brown hair parted in the middle, the gay paper flowers twisted around his face.
+Pecola backed out of the room, staring at the pretty milk-brown lady in the pretty gold-and-green house who was talking to her through the cat's fur. The pretty lady's words made the cat fur move; the breath of each word parted the fur. Pecola turned to find the front door and saw Jesus looking down at her with sad and unsurprised eyes, his long brown hair parted in the middle, the gay paper flowers twisted around his face.
 
 Outside, the March wind blew into the rip in her dress. She held her head down against the cold. But she could not hold it low enough to avoid seeing the snowflakes falling and dying on the pavement.

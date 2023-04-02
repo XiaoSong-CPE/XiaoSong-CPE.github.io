@@ -56,36 +56,6 @@ starch
 : starch prepared in powder form or as a spray and used for making clothes, sheets, etc. stiff （浆衣服、床单等用的）淀粉浆
 : to make clothes, sheets, etc. stiff using starch 把（衣服、床单等）浆一浆
 
-tod
-
-doily
-
-screech
-
-nimbly
-
-bluish
-
-whine
-
-slither
-
-radiator 
-
-shudder
-
-singe
-
-plait
-
-wad 
-
-gum 
-
-hump 
-
-abash
-
 sole
 : 鞋底
 
@@ -182,15 +152,65 @@ jackknife
 laurel
 : honour and praise given to sb because of sth that they have achieved 荣誉；赞誉；荣耀
 
+tod
+: on one's own 孤身一人
 
-: 
+doily
+: A __doily__ is a small, round piece of paper or cloth that has a pattern of tiny holes in it. Doilies are put on plates under cakes and sandwiches. (糕点盘上的)装饰衬垫
 
+screech
+: When you __screech__ something, you shout it in a loud, unpleasant, high-pitched voice. (人) 尖声喊
 
-: 
+nimble
+: Someone who is __nimble__ is able to move their fingers, hands, or legs quickly and easily. 敏捷灵巧的
 
+bluish
+: Something that is __bluish__ is slightly blue in colour. 接近蓝色的
 
-: 
+whine
+: If something or someone __whines__, they make a long, high-pitched noise, especially one that sounds sad or unpleasant. 哀鸣
 
+slither
+: If you __slither__ somewhere, you slide along in an uneven way. 滑动
+
+radiator
+: A __radiator__ is a hollow metal device, usually connected by pipes to a central heating system, that is used to heat a room. 暖气片
+
+shudder
+: If you __shudder__, you shake with fear, horror, or disgust, or because you are cold. (因害怕、恐惧、厌恶或寒冷) 发抖
+
+singe
+: If you singe something or if it __singes__, it burns very slightly and changes colour but does not catch fire. 浅表烧糊
+
+plait
+: If you __plait__ three or more lengths of hair, rope, or other material together, you twist them over and under each other to make one thick length. 编 (头发、绳子等) 成辫
+: A __plait__ is a length of hair that has been plaited. 辫子
+
+wad 
+: A __wad__ of something such as paper or cloth is a tight bundle or ball of it. (一) 团; (一) 叠; (一) 卷
+: to form (something) into a wad 使成一团
+
+gum
+: __Gum__ is a substance, usually tasting of mint, which you chew for a long time but do not swallow. 口香糖
+
+hem
+: A __hem__ on something such as a piece of clothing is an edge that is folded over and stitched down to prevent threads coming loose. The hem of a skirt or dress is the bottom edge. 卷边; 下摆
+
+hump
+: A __hump__ is a small hill or raised area. 小山丘
+: A camel's __hump__ is the large lump on its back. 驼峰
+
+abash
+: to cause to feel ill at ease, embarrassed, or confused; make ashamed 使感到尴尬、迷惑或羞愧
+
+pew
+: A __pew__ is a long wooden seat with a back that people sit on in church. (教堂里的) 靠背长椅
+
+dime store = five-and-dime
+: a shop/store that sells a range of cheap goods 廉价品店
+
+girdle
+: A __girdle__ is a piece of women's underwear that fits tightly around the stomach and hips. 紧身褡
 
 : 
 
