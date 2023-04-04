@@ -3,8 +3,10 @@ home: true
 heroText: 欢迎来学德语！
 tagline:
 actions:
-  - text: 开始学习
-    link: /deutsch/Einheit 1.md
+  - text: Lernen
+    link: /deutsch/Einheit 1
+  - text: Lesen
+    link: /text
 ---
 
 ## 学习资源
