@@ -4,9 +4,9 @@ heroText: 欢迎来学德语！
 tagline:
 actions:
   - text: Lernen
-    link: /deutsch/Einheit 1
+    link: /deutsch/Einheit_1
   - text: Lesen
-    link: /text
+    link: /deutsch/text
 ---
 
 ## 学习资源
