@@ -12,7 +12,4 @@ actions:
   - text: 西方音乐
     link: music
     type: secondary
-  - text: 数学方法
-    link: math
-    type: secondary
 ---

@@ -1,6 +1,7 @@
 <script setup>
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue';
 import moment from 'moment/min/moment-with-locales';
+import fulltext from './fulltext.vue';
 
 function timeLocalize(lang, date) {
     if (date === undefined) { return; } // 如果没有date就返回空值
@@ -28,10 +29,7 @@ function timeLocalize(lang, date) {
             <!-- 如果是日记 -->
             {{ timeLocalize($lang, $frontmatter.date) }}
             <!-- 如果是课文 -->
-            <h1 v-if="$frontmatter.type === 'fulltext'">
-                {{ $frontmatter.title }}
-                <span style=" opacity: 70%; font-size: 50%; white-space: nowrap; ">{{ $frontmatter.author }}</span>
-            </h1>
+            <fulltext v-if="$frontmatter.type === 'fulltext'" :frontmatter="$frontmatter" />
         </template>
     </ParentLayout>
 </template>
