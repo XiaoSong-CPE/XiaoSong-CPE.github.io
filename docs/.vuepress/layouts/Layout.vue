@@ -1,7 +1,8 @@
 <script setup>
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue';
 import moment from 'moment/min/moment-with-locales';
-import fulltext from './fulltext.vue';
+import { defineAsyncComponent } from 'vue';
+const fulltext = defineAsyncComponent(() => import('./fulltext.vue'));
 
 function timeLocalize(lang, date) {
     if (date === undefined) { return; } // 如果没有date就返回空值
