@@ -2,13 +2,7 @@
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue';
 import moment from 'moment/min/moment-with-locales';
 import { defineAsyncComponent } from 'vue';
-
-let fulltext = null;
-// 如果是课文，就引入fulltext.vue
-this.$frontmatter.type === 'fulltext'
-    ? fulltext = defineAsyncComponent(() => import('./fulltext.vue'))
-    : fulltext = null;
-
+const fulltext = defineAsyncComponent(() => import('./fulltext.vue'));
 
 function timeLocalize(lang, date) {
     if (!date) return; // 如果没有date就返回空值
