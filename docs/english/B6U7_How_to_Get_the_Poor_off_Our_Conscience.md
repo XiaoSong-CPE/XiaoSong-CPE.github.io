@@ -3,7 +3,10 @@
 1. __Was ist Sozialdarwinismus?__
    - Based on Darwin's theory of natural selection, Social Darwinism advocates complete freedom of individual and group competition, which empowers the evolution of society.
 1. __What is meant by getting the poor off our conscience? Why do you think the author chooses this as the title?__
-1. __Why have problems that arise from the continuing coexistence of affluence and poverty been an intellectual preoccupation for centuries?__
+   - "Getting the poor off our conscience" means the process by which people try to reduce or eliminate the guilt or discomfort they may feel about the coexistence of affluence and poverty, whether directly reducing the poverty rate or mentally accepting poverty.
+   - The author chooses this as the title to present the human history of "getting the poor off our conscience" and thus to make everyone realize that the conservative apology is nothing but the latest of repeated attempts to justify what is morally unjustifiable.
+2. __Why have problems that arise from the continuing coexistence of affluence and poverty been an intellectual preoccupation for centuries?__
+   - Because these problems challenge people's sense of fairness and justice, while many of the efforts to solve them are attempts to justify the morally indefensible rather than to reduce poverty rates directly.
 
 ## Vokabeln
 perilous
