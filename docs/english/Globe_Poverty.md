@@ -58,7 +58,7 @@ option = {
 
 DIW Berlin provides an image that contains the richest data. Details are not public.
 
-![Alt text](dwr-18-21-1-7.png)
+![Alt text](./dwr-18-21-1-7.png)
 
 ## Mikrozensus: A Different Survey Method than in China
 
