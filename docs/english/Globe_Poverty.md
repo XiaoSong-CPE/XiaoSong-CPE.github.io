@@ -66,7 +66,7 @@ The term "microcensus" means "small population census". The microcensus is the l
 
 [mikrozensus_en.mp4](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Methoden/Video/video-mz-video-english.html)
 
-## Poverty in Rich: Situation of German Poverty
+## Neue ArmutArmutArmutArmut: Phenomenon and Reason of German Poverty
 
 Although Germany is one of the richest countries in the world, signs of increasing poverty are becoming increasingly visible across the country. Homeless people sleeping rough, mothers forgoing meals in order to feed their children, and pensioners looking for discarded bottles to trade for the deposit.
 
@@ -92,7 +92,10 @@ Although Germany is one of the richest countries in the world, signs of increasi
 
 (对现有举措的批评)
 
+## References
 
 [^1]: [Poverty and Shared Prosperity 2022 Report](https://openknowledge.worldbank.org/server/api/core/bitstreams/b96b361a-a806-5567-8e8a-b14392e11fa0/content)
 
-[^2]: Translated from: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)
+[^2]: Translated from: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschlandReferences
+
+[^3]: 潘亚玲,杨阳.德国“新贫困”问题研究[J].当代世界社会主义问题,2019(03):148-157.DOI:10.16012/j.cnki.88375471.2019.03.018.
