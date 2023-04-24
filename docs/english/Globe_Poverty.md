@@ -38,7 +38,7 @@ Although Germany is one of the richest countries in the world, signs of increasi
 
 Wealth very unevenly distributed. [^Paritätische_Wohlfahrtsverband]
 
-![Alt text](./SOZ_08_02%20Vermoegensverteilung_JPG_01.jpg)
+![Alt text](SOZ_08_02_Vermoegensverteilung_JPG_01.jpg)
 
 **Reasons:**
 
