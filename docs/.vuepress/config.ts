@@ -1,14 +1,17 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import markdownItDeflist from 'markdown-it-deflist';
+import markdownItFootnote from 'markdown-it-footnote';
 
 export default defineUserConfig({
     markdown: {
         typographer: true,
-        quotes: '„“‚‘'
+        quotes: '„“‚‘',
+        html: true,
     },
     extendsMarkdown: (md) => {
         md.use(markdownItDeflist)
+            .use(markdownItFootnote)
     },
     locales: {
         // 键名是该语言所属的子路径

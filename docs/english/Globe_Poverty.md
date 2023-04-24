@@ -6,7 +6,7 @@ This passage was written for my course assignment, which is about the basic situ
 
 In class, my teacher told us that the extreme poverty line is defined as having less than $1.25 a day to live on, but this data is long outdated.
 
-> In May 2020, the International Comparison Program (ICP) released new purchasing power parities (PPPs) based on price data collected in 176 economies in 2017. Poverty estimates are often updated with new PPP data to reflect new information on price differences across countries. Related statistics such as gross domestic product (GDP) are similarly updated with new PPPs. When switching to a different base year (in this case, 2017), two revisions are made. First, the consumption aggregate of each household is converted into dollars of the new base year using the new price information. Second, the poverty line used to assess whether a household is poor is also updated to the new base year. [^1]
+> In May 2020, the International Comparison Program (ICP) released new purchasing power parities (PPPs) based on price data collected in 176 economies in 2017. Poverty estimates are often updated with new PPP data to reflect new information on price differences across countries. Related statistics such as gross domestic product (GDP) are similarly updated with new PPPs. When switching to a different base year (in this case, 2017), two revisions are made. First, the consumption aggregate of each household is converted into dollars of the new base year using the new price information. Second, the poverty line used to assess whether a household is poor is also updated to the new base year. ^[[Poverty and Shared Prosperity 2022 Report](https://openknowledge.worldbank.org/server/api/core/bitstreams/b96b361a-a806-5567-8e8a-b14392e11fa0/content)]
 
 ```mermaidjs
 timeline
@@ -20,43 +20,7 @@ timeline
 
 ## Armutsgefährdungsquote: Different from China's Poverty Definition
 
-In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. [^2]
-
-The following are the statistics of at-risk-of-poverty rate in german from __Statista__ and __Eurostat__.
-
-```ts
-option = {
-  title: {
-    text: 'Armutsgefährdungsquote in Deutschland',
-    left: 'center'
-  },
-  xAxis: {
-    type: "category",
-    data: ["2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"]
-  },
-  yAxis: {
-    type: "value"
-  },
-  tooltip: {
-    trigger: 'axis'
-  },
-  legend: {
-    data: ['Statista', 'Eurostat'],
-    top: 'bottom'
-  },
-  series: [{
-    data: [null, 14.7, 14.0, 14.3, 14.4, 14.6, 14.5, 15.0, 15.0, 15.5, 15.4, 15.7, 15.7, 15.8, 15.5, 15.9, 16.2, 16.6],
-    type: "line",
-    name: "Statista"
-  }, {
-    data: [null, null, null, null, 15.2, null, null, 15.8, 16.1, 16.1, 16.7, 16.7, 16.5, 16.1, 16.0, 14.8, 16.1, 16.0],
-    type: "line",
-    name: "Eurostat"
-  }]
-};
-```
-
-DIW Berlin provides an image that contains the richest data. Details are not public.
+In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. ^[[Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)]
 
 ![Alt text](./dwr-18-21-1-7.png)
 
@@ -66,33 +30,41 @@ The term "microcensus" means "small population census". The microcensus is the l
 
 [mikrozensus_en.mp4](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Methoden/Video/video-mz-video-english.html)
 
-## Poverty in Rich: Situation of German Poverty
+## Neue Armut: Causes & Effects of German Poverty
 
-Although Germany is one of the richest countries in the world, signs of increasing poverty are becoming increasingly visible across the country. Homeless people sleeping rough, mothers forgoing meals in order to feed their children, and pensioners looking for discarded bottles to trade for the deposit.
-
-参考资料待整理：
-
-- Paritätische Wohlfahrtsverband: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)
-- Deutsche Welle: [Germany: What poverty looks like in a rich country – DW – 10/10/2022](https://www.dw.com/en/germany-what-poverty-looks-like-in-a-rich-country/a-63393501)
-
+Although Germany is one of the richest countries in the world, signs of increasing poverty are becoming increasingly visible across the country. Homeless people sleeping rough, mothers forgoing meals in order to feed their children, and pensioners looking for discarded bottles to trade for the deposit. ^[[Germany: What poverty looks like in a rich country – DW – 10/10/2022](https://www.dw.com/en/germany-what-poverty-looks-like-in-a-rich-country/a-63393501)]
 
 ### Vermögen sehr ungleich verteilt
 
-(贫富差距极大)
+Wealth very unevenly distributed. [^Paritätische_Wohlfahrtsverband]
+
+![label](Globe_Poverty.md)
+
+**Reasons:**
+
+- Covid-19 Pandemic [^DW]
+- ~~Poor grade for Merkel's years~~ [^DW]
+- Social advancement is very difficult for the poor [^DW]
 
 ### Erwerbslose, Alleinerziehende und Studierende besonders oft arm
 
-(有些人群非常贫困)
+Unemployed, single parents, and students particularly often poor. [^Paritätische_Wohlfahrtsverband]
+
+**Reasons:**
+
+- Statistical approach ^[Personal Opinian.]
+- Government subsidies may not meet poverty line [^Neue_Armut]
 
 ### Frauen häufiger von Armut bedroht
 
-(女性更容易贫困)
+Women more frequently threatened by poverty. [^Paritätische_Wohlfahrtsverband]
 
-### Kritik an Maßnahmen
+- Employment discrimination [^Paritätische_Wohlfahrtsverband]
+- Pregnancy and Child-rearing [^Paritätische_Wohlfahrtsverband]
+- Low pension (caused by low working time) [^Neue_Armut]
 
-(对现有举措的批评)
+[^Paritätische_Wohlfahrtsverband]: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)
 
+[^Neue_Armut]: 潘亚玲,杨阳.德国“新贫困”问题研究[J].当代世界社会主义问题,2019(03):148-157.DOI:10.16012/j.cnki.88375471.2019.03.018.
 
-[^1]: [Poverty and Shared Prosperity 2022 Report](https://openknowledge.worldbank.org/server/api/core/bitstreams/b96b361a-a806-5567-8e8a-b14392e11fa0/content)
-
-[^2]: Translated from: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)
+[^DW]: [Wachsende Kluft zwischen Arm und Reich in Deutschland | Deutschland | DW | 13.05.2021](https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792)
