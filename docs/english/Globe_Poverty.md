@@ -1,4 +1,4 @@
-# Globe Poverty
+# Poverty in German
 
 This passage was written for my course assignment, which is about the basic situation and main causes of poverty in the world. But I think this topic is too general, so I chose Germany as the subject of my research.
 
