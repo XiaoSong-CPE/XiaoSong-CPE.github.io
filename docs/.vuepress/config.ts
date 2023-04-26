@@ -2,8 +2,16 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import markdownItDeflist from 'markdown-it-deflist';
 import markdownItFootnote from 'markdown-it-footnote';
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
+    plugins: [
+        mdEnhancePlugin({
+            // 启用 mermaid
+            mermaid: true,
+            echarts: true,
+        }),
+    ],
     markdown: {
         typographer: true,
         quotes: '„“‚‘',

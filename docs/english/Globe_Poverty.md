@@ -22,6 +22,107 @@ timeline
 
 In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. ^[[Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)]
 
+In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. [^Paritätische_Wohlfahrtsverband]
+
+::: echarts
+
+```js
+option = {
+  title: {
+    text: "Armutsgefährdungsquote in Deutschland",
+    left: "center",
+  },
+  xAxis: {
+    type: "category",
+    data: [
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+    ],
+  },
+  yAxis: {
+    type: "value",
+  },
+  tooltip: {
+    trigger: "axis",
+  },
+  legend: {
+    data: ["Statista", "Eurostat"],
+    top: "bottom",
+  },
+  series: [
+    {
+      data: [
+        null,
+        14.7,
+        14.0,
+        14.3,
+        14.4,
+        14.6,
+        14.5,
+        15.0,
+        15.0,
+        15.5,
+        15.4,
+        15.7,
+        15.7,
+        15.8,
+        15.5,
+        15.9,
+        16.2,
+        16.6,
+      ],
+      type: "line",
+      name: "Statista",
+    },
+    {
+      data: [
+        null,
+        null,
+        null,
+        null,
+        15.2,
+        null,
+        null,
+        15.8,
+        16.1,
+        16.1,
+        16.7,
+        16.7,
+        16.5,
+        16.1,
+        16.0,
+        14.8,
+        16.1,
+        16.0,
+      ],
+      type: "line",
+      name: "Eurostat",
+    },
+  ],
+};
+```
+
+:::
+
+DIW Berlin provides an image that contains the richest data. Details are not public.
+
 ![Alt text](./p1.png)
 
 ## Mikrozensus: A Different Survey Method than in China
@@ -61,9 +162,26 @@ Although Germany is one of the richest countries in the world, signs of increasi
   - **Obstacles to Reforming the Welfare System**: The reform of the welfare system has many difficulties and great obstacles. Especially, the deep-rooted welfare concept of the German people is unshakable. If not careful, it will stimulate and offend the voters and lead to the abyss of "whoever reforms, whoever steps down", resulting in the reform of the welfare system being unable to be thoroughly implemented. The welfare trap is thus holding back Germany's economic development. [^JZX]
 
 :::tip I guess Ms. He would like this
-![Alt text](./p4.svg)
-:::
 
+```mermaid
+mindmap
+    root(Reasons of German Poverty)
+        ("Covid-19 Pandemic")
+        (Poor grade for Merkel's years)
+        (Social advancement is very difficult for the poor)
+        (Government subsidies may not meet poverty line)
+        ("Low pension (caused by low working time)")
+        (Renewable Energy)
+            [Indiscriminate renewable energy support levies increase income inequality and energy poverty.]
+            ["Lower-income households are most affected by electricity price increases."]
+        (High unemployed rate)
+            [Structural causes]
+        (Excessive benefits from welfare system)
+            [High welfare leads to fraud and laziness]
+            [Obstacles to Reforming the Welfare System]
+```
+
+:::
 
 [^Paritätische_Wohlfahrtsverband]: [Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)
 [^Neue_Armut]: 潘亚玲,杨阳.德国“新贫困”问题研究[J].当代世界社会主义问题,2019(03):148-157.DOI:10.16012/j.cnki.88375471.2019.03.018.
