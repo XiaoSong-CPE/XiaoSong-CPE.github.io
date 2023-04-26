@@ -159,7 +159,7 @@ Although Germany is one of the richest countries in the world, signs of increasi
   - **High welfare leads to fraud and laziness**: High welfare also induces some social problems, such as reducing people's enthusiasm for labor, not only raising a lot of "lazy", but also a lot of fraud activities. There was a freelance writer in an upmarket area with a villa with a garden who posed as an unemployed renter and claimed a €9,000 allowance. It is Germany's generous approach to welfare subsidies that provides a breeding ground for fraud. [^JZX]
   - **Obstacles to Reforming the Welfare System**: The reform of the welfare system has many difficulties and great obstacles. Especially, the deep-rooted welfare concept of the German people is unshakable. If not careful, it will stimulate and offend the voters and lead to the abyss of "whoever reforms, whoever steps down", resulting in the reform of the welfare system being unable to be thoroughly implemented. The welfare trap is thus holding back Germany's economic development. [^JZX]
 
-:::tip I guess Ms. He would like this
+:::tip I guess Professor HE would like this
 
 ```mermaid
 mindmap
