@@ -20,8 +20,6 @@ timeline
 
 ## Armutsgefährdungsquote: Different from China's Poverty Definition
 
-In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. ^[[Armut in Deutschland wächst | Hintergrund aktuell | bpb.de](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/516505/armut-in-deutschland-waechst/)]
-
 In Germany, poverty development is often described by the so-called **at-risk-of-poverty rate**. This indicates the proportion of people at risk of poverty in a total group. The measurement of poverty risk is based on the relative definition of poverty. [^Paritätische_Wohlfahrtsverband]
 
 ::: echarts
