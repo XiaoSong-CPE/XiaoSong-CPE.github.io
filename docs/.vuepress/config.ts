@@ -49,31 +49,31 @@ export default defineUserConfig({
                         link: '/deutsch/',
                     },
                 ],
-                sidebar: {
-                    '/english/': [
-                        {
-                            text: '现代英语',
-                            children: [
-                                {
-                                    text: 'Book 6 Notes',
-                                    children: [
-                                        'B6U4_Nettles.md',
-                                        'B6U7_How_to_Get_the_Poor_off_Our_Conscience.md',
-                                        'B6U9_The_Bluest_Eye.md'
-                                    ]
-                                },
-                                {
-                                    text: 'Book 6 Texts',
-                                    children: [
-                                        'B6U4_Nettles_(fulltext).md',
-                                        'B6U7_How_to_Get_the_Poor_off_Our_Conscience_(fulltext).md',
-                                        'B6U9_The_Bluest_Eye_(fulltext).md'
-                                    ]
-                                },
-                            ]
-                        }
-                    ]
-                }
+                // sidebar: {
+                //     '/english/': [
+                //         {
+                //             text: '现代英语',
+                //             children: [
+                //                 {
+                //                     text: 'Book 6 Notes',
+                //                     children: [
+                //                         'B6U4_Nettles.md',
+                //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience.md',
+                //                         'B6U9_The_Bluest_Eye.md'
+                //                     ]
+                //                 },
+                //                 {
+                //                     text: 'Book 6 Texts',
+                //                     children: [
+                //                         'B6U4_Nettles_(fulltext).md',
+                //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience_(fulltext).md',
+                //                         'B6U9_The_Bluest_Eye_(fulltext).md'
+                //                     ]
+                //                 },
+                //             ]
+                //         }
+                //     ]
+                // }
             },
         },
     }),
