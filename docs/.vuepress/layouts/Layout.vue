@@ -23,8 +23,8 @@ function timeLocalize(lang, date) {
         <template #page-content-top>
             <!-- 如果是日记 -->
             {{ timeLocalize($lang, $frontmatter.date) }}
-            <!-- 如果是课文 -->
+            <!-- 如果是课文 
             <fulltext v-if="$frontmatter.type === 'fulltext'" :frontmatter="$frontmatter" />
-        </template>
+        --></template>
     </ParentLayout>
 </template>

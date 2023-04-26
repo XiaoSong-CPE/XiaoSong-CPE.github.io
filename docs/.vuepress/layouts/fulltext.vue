@@ -14,27 +14,3 @@ const props = defineProps<{
 }>();
 
 </script>
-
-<style lang="scss">
-.theme-default-content {
-
-    counter-reset: section;
-
-    p {
-        text-indent: 2em;
-        text-align: justify;
-        position: relative;
-    }
-
-    p::before {
-        counter-increment: section;
-        content: counter(section, decimal-leading-zero);
-        text-indent: 0;
-        position: absolute;
-        left: 0;
-        opacity: 48%;
-        font-size: xx-small;
-    }
-
-}
-</style>
