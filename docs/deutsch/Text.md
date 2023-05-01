@@ -1,10 +1,14 @@
 # Lesen
 
-## Wolfskönig
+## Wolfskönig ^[Von [Vollmondnacht](https://store.steampowered.com/app/769560).]
+
+::: tabs
+
+@tab Deutsch
 
 Sophia ist eine hübsche und attraktive Abgesandte der Kirche, die von der Kirche beauftragt wurde, die Werwölfe zu untersuchen. Im Laufe ihrer Untersuchungen entdeckt sie nach und nach, dass die Werwölfe nicht so grausam sind, wie es heißt, sondern stattdessen allein in den Tiefen des Waldes leben, aus Angst, die Menschen zu verletzen. Sophia und der Werwolf entwickeln über einen langen Zeitraum eine romantische Beziehung, aber sie ist machtlos, die Haltung der Kirche und die Ansichten der Menschen zu ändern. Nachdem ihre Bemühungen fehlgeschlagen waren, gab sie entschlossen alles auf, was sie hatte und gründete eine Familie mit einem Werwolf mitten im Nirgendwo. Als Sophia mehr als 9 Monate mit dem Kind des Werwolfs schwanger war, plante die Kirche, sie zu fangen und sie als Köder zu benutzen, um den Werwolf in eine Falle zu locken. Der Werwolf stürzte sich unter Lebensgefahr in das unterirdische Gefängnis der Kirche und tappte in ihre Falle. Nach einem brutalen Kampf erlitt der in der Unterzahl befindliche Werwolf schwere Verletzungen. In einer lebensgefährlichen Situation fing Sophia eine tödliche Silberkugel für den Werwolf ab. Der Werwolf kämpfte bis zum letzten Atemzug, um mit seiner schwer verwundeten Geliebten aus dem Gefängnis zu entkommen. Die schwer verletzte Sophia brachte auf ihrem Sterbebett einen blonden Mischlingsjungen zur Welt. Der Werwolf war untröstlich und schwor, die Kirche zu zerstören, um den Tod seiner Frau zu rächen. Er ließ sein neugeborenes Kind vor der Tür eines Hauses am Eingang des Dorfes zurück, ging allein in den dunklen Wald, machte einen Pakt mit dem Teufel und wurde von da an zu einer schrecklichen und bösen Legende, die vor nichts zurückschrecken würde, um sich an der Kirche zu rächen.
 
----
+@tab Vokabeln
 
 der/die Abgesandte
 : envoy
@@ -69,7 +73,9 @@ entschließen
 gründen
 : to found
 
-## Vielältige Migrantinnen und Migranten
+:::
+
+## Vielältige Migrantinnen und Migranten ^[Von "大学德语四级应试全攻略".]
 
 ::: tabs
 
@@ -115,19 +121,7 @@ Worldwide, more women than men migrate and flee. Due to unequal conditions in th
 
 全球范围内，比男性更多的女性在移民和逃难。由于就业市场的不平等条件和资源的不平等获取，被称为“贫困女性化”。估计有0.5至1.5万名女移民非法居住在德国。他们打扫、烹饪、服务、从事性行业，在家庭中照顾儿童和老人。
 
-:::
-
-Migrantinnen
-: female migrants
-
-Migranten
-: male migrants
-
-Migration
-: migration
-
-Sammelbegriff
-: collective term
+@tab Vokabeln
 
 Sammeln
 : to collect
@@ -138,32 +132,20 @@ Begriff
 unterschiedliche
 : different
 
-Gruppe
-: group
-
-Menschen
-: people
-
 Dauer
 : duration
 
 Lebens
 : life
 
-Deutschland
-: Germany
-
-Herkunftsländern
-: countries of origin
+die Herkunft
+: origin
 
 Mutter- oder Hauptsprache
 : mother or main language
 
 vielen Fällen
 : many cases
-
-Deutsch
-: German
 
 sozialen Situation
 : social situation
@@ -173,15 +155,6 @@ rechtlichen Status
 
 kulturellen und religiösen Orientierung
 : cultural and religious orientation
-
-Viele
-: many
-
-ohne
-: without
-
-deutsche
-: German
 
 Staatsbürgerschaft
 : citizenship
@@ -203,9 +176,6 @@ Verbesserungen
 
 mit sich gebracht
 : brought with it
-
-z. B.
-: e.g.
 
 Einbürgerungsmöglichkeit
 : naturalization possibility
@@ -261,7 +231,9 @@ etwa
 Menschen
 : people
 
-## Die neuen Pharaonen
+:::
+
+## Die neuen Pharaonen ^[Von [Pray](https://store.epicgames.com/de/p/prey).]
 ::: tabs
 
 @tab Deutsch
