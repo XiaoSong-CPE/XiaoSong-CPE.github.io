@@ -10,6 +10,7 @@ export default defineUserConfig({
             // 启用 mermaid
             mermaid: true,
             echarts: true,
+            tabs: true,
         }),
     ],
     markdown: {
