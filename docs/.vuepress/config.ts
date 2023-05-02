@@ -36,26 +36,26 @@ export default defineUserConfig({
         docsDir: 'docs',
         locales: {
             '/': {
-                lastUpdatedText: '上次更新',
-                contributorsText: '贡献者',
-                notFound: ['找不到网页'],
-                backToHome: '返回主页',
+                lastUpdatedText: 'Zuletzt aktualisiert',
+                contributorsText: 'Mitwirkende',
+                notFound: ['Die Seite wurde nicht gefunden'],
+                backToHome: 'Zurück zur Startseite',
                 navbar: [
                     {
-                        text: '我的日记',
-                        link: '/dairy/',
+                        text: 'Mein Tagebuch',
+                        link: '/tagebuch/',
                     }, {
-                        text: '德语学习',
+                        text: 'Deutsch Lernen',
                         link: '/deutsch/',
                     },
                 ],
                 // sidebar: {
                 //     '/english/': [
                 //         {
-                //             text: '现代英语',
+                //             text: 'Modernes Englisch',
                 //             children: [
                 //                 {
-                //                     text: 'Book 6 Notes',
+                //                     text: 'Buch 6 Notizen',
                 //                     children: [
                 //                         'B6U4_Nettles.md',
                 //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience.md',
@@ -63,7 +63,7 @@ export default defineUserConfig({
                 //                     ]
                 //                 },
                 //                 {
-                //                     text: 'Book 6 Texts',
+                //                     text: 'Buch 6 Texte',
                 //                     children: [
                 //                         'B6U4_Nettles_(fulltext).md',
                 //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience_(fulltext).md',
@@ -74,6 +74,7 @@ export default defineUserConfig({
                 //         }
                 //     ]
                 // }
+
             },
         },
     }),

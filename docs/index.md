@@ -1,15 +1,15 @@
 ---
 home: true
 actions:
-  - text: 我的日记
-    link: /dairy/
-  - text: 德语学习
+  - text: Mein Tagebuch
+    link: /tagebuch/
+  - text: Deutsch Lernen
     link: /deutsch/
-  - text: 汉英翻译
+  - text: Chinesisch-Englisch Übersetzung
     link: /translate/
-  - text: 现代英语
+  - text: Modernes Englisch
     link: /english/
-  - text: 西方音乐
-    link: music
+  - text: Westliche Musik
+    link: musik
     type: secondary
 ---
