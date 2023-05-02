@@ -237,7 +237,7 @@ Menschen
 :::
 ::::
 
-## Die neuen Pharaonen ^[Von [Pray](https://store.epicgames.com/de/p/prey).]
+## Die neuen Pharaonen ^[Von [Prey](https://store.epicgames.com/de/p/prey).]
 
 :::: code-group
 ::: code-group-item Deutsch
