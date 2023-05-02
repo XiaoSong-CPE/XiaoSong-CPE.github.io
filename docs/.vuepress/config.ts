@@ -1,8 +1,8 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import markdownItDeflist from 'markdown-it-deflist';
-import markdownItFootnote from 'markdown-it-footnote';
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+import markdownItDeflist from 'markdown-it-deflist'
+import markdownItFootnote from 'markdown-it-footnote'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 
 export default defineUserConfig({
     plugins: [
@@ -10,8 +10,7 @@ export default defineUserConfig({
             // 启用 mermaid
             mermaid: true,
             echarts: true,
-            tabs: true,
-        }),
+        })
     ],
     markdown: {
         typographer: true,
@@ -26,9 +25,9 @@ export default defineUserConfig({
         // 键名是该语言所属的子路径
         // 作为特例，默认语言可以使用 '/' 作为其路径。
         '/': {
-            lang: 'zh',
-            title: '康康笔记',
-            description: 'Vue 驱动的静态网站生成器',
+            lang: 'de',
+            title: 'Notizen Karstens',
+            description: 'Karstens persönliche Notizen',
         },
     },
     theme: defaultTheme({

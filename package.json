@@ -12,7 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.60",
-    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar",
     "vuepress-plugin-md-enhance": "^2.0.0-beta.206"
   },
   "dependencies": {

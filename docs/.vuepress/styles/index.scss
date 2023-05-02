@@ -1,11 +1,16 @@
 .page {
-    .theme-default-content {
-        dd {
-            background-color: var(--c-text);
+  .theme-default-content {
+    dd {
+      background-color: var(--c-text);
 
-            &:hover {
-                background-color: transparent;
-            }
-        }
+      &:hover {
+        background-color: transparent;
+      }
     }
+    .code-group-item:not(:has(> .language-typescript)) {
+        background: var(--code-bg-color);
+        padding: 16px;
+        border-radius: 6px;
+      }
+  }
 }
