@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import ParentLayout from "@vuepress/theme-default/layouts/Layout.vue";
 import moment from "moment/min/moment-with-locales";
 

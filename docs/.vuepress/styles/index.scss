@@ -8,9 +8,10 @@
       }
     }
     .code-group-item:not(:has(> .language-typescript)) {
-        background: var(--code-bg-color);
-        padding: 16px;
-        border-radius: 6px;
-      }
+      background: var(--code-bg-color);
+      padding: 16px;
+      border-radius: 6px;
+      color: #adbac7;
+    }
   }
 }
