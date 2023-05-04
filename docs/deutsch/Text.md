@@ -52,6 +52,9 @@ verletzen
 entwickeln
 : to develop
 
+der Zeitraum
+: period of time
+
 die Beziehung
 : relationship
 
@@ -72,6 +75,54 @@ entschließen
 
 gründen
 : to found
+
+schwanger
+: pregnant
+
+planen
+: to plan
+
+fangen
+: to catch
+
+der Köder
+: bait
+
+die Falle
+: trap
+
+locken
+: to lure
+
+stürzen sich
+: to fall to one's death
+
+die Lebensgefahr
+: danger
+
+unteridisch
+: underground
+
+das Gefängnis
+: prison
+
+der Kampf
+: fight
+
+erleiden
+: to suffer
+
+befinden
+: to be
+
+in der Unterzahl befindliche
+: 这是一个复合形容词，其中“in der Unterzahl”意为“数量上处于劣势的”，“befindliche”为现在分词，表示状态或特征。整个形容词的意思是“处于数量上劣势的”。
+
+tödliche
+: fatal
+
+die Kugel
+: ball
 
 :::
 ::::
