@@ -1,7 +1,8 @@
 # Die Präsentation der Gruppe Sechs
 
 - Assigment Number: Week 9-2
-- Menbers: Jin Zhenxian, Lin Jiacheng, Zhou Kang
+- Group Menbers: Jin Zhenxian, Lin Jiacheng, Zhou Kang
+- Note: This ppt-like file is auto generated from [plain text](https://github.com/XiaoSong-CPE/XiaoSong-CPE.github.io/blob/main/docs/english/Week_9-2.md).
 
 ## Question 1 (GPT-4)
 
