@@ -7,7 +7,7 @@
 
 > Translation：So let us begin anew — remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear. But let us never fear to negotiate.
 
-让我们重新开始——双方都要牢记，文明礼让并非软弱的表现，真诚始终需要经得起检验。让我们永远不要因恐惧而谈判，但也永远不要害怕进行谈判。（由GPT-4模仿习近平总书记就职演说的文风进行翻译）
+让我们重新开始——双方都要牢记，文明礼让并非软弱的表现，真诚始终需要经得起检验。让我们永远不要因恐惧而谈判，但也永远不要害怕进行谈判。
 
 ## Question 2 (Zhou Kang)
 
