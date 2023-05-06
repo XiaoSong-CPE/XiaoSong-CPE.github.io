@@ -9,6 +9,9 @@
 - [Inaugural Address](B6U8_Inaugural_Address.md) ([fulltext](B6U8_Inaugural_Address_(fulltext).md))
 - Notes on the English Character
 
+## Assignment
+- [Week 9-2](Week_9-2.md)
+
 ## Other
 
 - [Globe Poverty](Globe_Poverty.md)

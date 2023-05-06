@@ -19,6 +19,29 @@ function timeLocalize(lang, date) {
     "LL"
   )}${rightBracket}`;
 }
+
+// set listener: add <h2>References and Notes</h2> before .footnotes before printing
+if (typeof window !== "undefined") {
+  window.addEventListener("beforeprint", () => {
+    const footnotesList = document.querySelector(".footnotes");
+    if (footnotesList) {
+      const h2 = document.createElement("h2");
+      h2.textContent = "References and Notes";
+      h2.classList.add("print-temp");
+      footnotesList.insertAdjacentElement("beforebegin", h2);
+    }
+  });
+}
+// set listener: remove the <h2>References and Notes</h2>
+if (typeof window !== "undefined") {
+  window.addEventListener("afterprint", () => {
+    const h2 = document.querySelector(".print-temp");
+    if (h2) {
+      h2.remove();
+    }
+  });
+}
+
 </script>
 
 <template>
