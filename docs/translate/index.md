@@ -1,4 +1,4 @@
-# Ubersetzen von Chinesisch nach English
+# Ubersetzen von Chinesisch nach Englisch
 
 ## Wöchentliche Hausaufgaben
 
