@@ -25,6 +25,12 @@ export default defineUserConfig({
     extendsMarkdown: (md) => {
         md.use(markdownItDeflist)
             .use(markdownItFootnote)
+
+        md.renderer.rules.footnote_block_open = () => (
+            '<h2 id="references-and-notes" tabindex="-1"><a class="header-anchor" href="#references-and-notes" aria-hidden="true">#</a> References and Notes</h2>\n' +
+            '<section class="footnotes">\n' +
+            '<ol class="footnotes-list">\n'
+        );
     },
     locales: {
         // 键名是该语言所属的子路径
