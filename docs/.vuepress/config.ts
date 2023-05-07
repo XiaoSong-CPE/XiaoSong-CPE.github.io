@@ -3,6 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import markdownItDeflist from 'markdown-it-deflist'
 import markdownItFootnote from 'markdown-it-footnote'
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
     plugins: [
@@ -10,7 +11,11 @@ export default defineUserConfig({
             // 启用 mermaid
             mermaid: true,
             echarts: true,
-        })
+        }),
+        searchPlugin({
+            // 排除首页
+            isSearchable: (page) => page.path !== '/',
+        }),
     ],
     markdown: {
         typographer: true,
