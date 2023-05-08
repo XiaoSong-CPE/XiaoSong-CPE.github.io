@@ -308,100 +308,100 @@ Menschen
 :::
 ::: code-group-item Vokabeln
 
-- Auszug
+Auszug
 : extract
 
-- Zwangsarbeit
+Zwangsarbeit
 : forced labor
 
-- Der Aufstieg
+Der Aufstieg
 : the rise
 
-- Konzerne
+Konzerne
 : corporations
 
-- thematisiert
+thematisiert
 : addressed
 
-- der Humanismus
+der Humanismus
 : humanism
 
-- Profitdenken
+Profitdenken
 : profit-oriented thinking
 
-- zahlreiche
+zahlreiche
 : numerous
 
-- Herausforderungen
+Herausforderungen
 : challenges
 
-- Sozialwissenschaftler
+Sozialwissenschaftler
 : social scientists
 
-- kollektive
+kollektive
 : collective
 
-- Verhandlungsbereitschaft
+Verhandlungsbereitschaft
 : bargaining power/willingness to negotiate
 
-- unumstößliche
+unumstößliche
 : undeniable/unquestionable
 
-- Menschenrechte
+Menschenrechte
 : human rights
 
-- Vorteile
+Vorteile
 : benefits/advantages
 
-- Löhne
+Löhne
 : wages
 
-- Renten
+Renten
 : pensions
 
-- Lebensstil
+Lebensstil
 : lifestyle
 
-- opfern
+opfern
 : sacrifice
 
-- Trend
+Trend
 : trend
 
-- Arbeitsverträge
+Arbeitsverträge
 : employment contracts
 
-- Großkonzernen
+Großkonzernen
 : large corporations
 
-- Vorzüge
+Vorzüge
 : perks/benefits
 
-- Kompensationen
+Kompensationen
 : compensations
 
-- Klauseln
+Klauseln
 : clauses/terms
 
-- drakonische
+drakonische
 : draconian/extremely harsh
 
-- Strafzahlungen
+Strafzahlungen
 : penalty payments
 
-- Angestellte
+Angestellte
 : employees
 
-- Verpflichtungen
+Verpflichtungen
 : obligations
 
-- Quasi-Zwangsarbeit
+Quasi-Zwangsarbeit
 : quasi-forced labor/mostly involuntary labor
 
-- machtlos
+machtlos
 : powerless
 
-- vorgehen
+vorgehen
 : take action/proceed
 
 :::
