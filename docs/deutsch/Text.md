@@ -306,4 +306,103 @@ Menschen
 [探讨契约奴工的书籍节录，孔恩·莫·杰克森著]<br><br>现在已有许多著作讨论企业权力高涨的现象，例如崔西·韦伯的《纯粹邪恶》与杨恩·强森的《时候到了》。这些论述主要关注人文主义在一切为利润所驱动的世界所面临的挑战。<br><br>但这些科学家没有料到的是，企业兴盛带来一种新的集体劳资模式，劳方放弃基本人权，交换更好的福利、薪水、退休金与生活方式。<br><br>现在的知名明星公司如转星出现一股员工合约的新趋势：其薪水与福利让其他公司望尘莫及，但密密麻麻的合约潜藏着各种条款，允许员工与公司达成惩罚性债务关系，如果员工达不到公司的要求，公司可以径行罚款。<br><br>这样的合约让员工成为“契约奴工”，不仅使员工禁声，还禁止调解......
 
 :::
+::: code-group-item Vokabeln
+
+- Auszug
+: extract
+
+- Zwangsarbeit
+: forced labor
+
+- Der Aufstieg
+: the rise
+
+- Konzerne
+: corporations
+
+- thematisiert
+: addressed
+
+- der Humanismus
+: humanism
+
+- Profitdenken
+: profit-oriented thinking
+
+- zahlreiche
+: numerous
+
+- Herausforderungen
+: challenges
+
+- Sozialwissenschaftler
+: social scientists
+
+- kollektive
+: collective
+
+- Verhandlungsbereitschaft
+: bargaining power/willingness to negotiate
+
+- unumstößliche
+: undeniable/unquestionable
+
+- Menschenrechte
+: human rights
+
+- Vorteile
+: benefits/advantages
+
+- Löhne
+: wages
+
+- Renten
+: pensions
+
+- Lebensstil
+: lifestyle
+
+- opfern
+: sacrifice
+
+- Trend
+: trend
+
+- Arbeitsverträge
+: employment contracts
+
+- Großkonzernen
+: large corporations
+
+- Vorzüge
+: perks/benefits
+
+- Kompensationen
+: compensations
+
+- Klauseln
+: clauses/terms
+
+- drakonische
+: draconian/extremely harsh
+
+- Strafzahlungen
+: penalty payments
+
+- Angestellte
+: employees
+
+- Verpflichtungen
+: obligations
+
+- Quasi-Zwangsarbeit
+: quasi-forced labor/mostly involuntary labor
+
+- machtlos
+: powerless
+
+- vorgehen
+: take action/proceed
+
+:::
 ::::
