@@ -42,7 +42,7 @@ Political metaphors are widely used to shape public opinion and influence decisi
 
 ### 4.1 GPT-3.5 Based Machine Labeling
 
-![Alt text](p4.jpg)
+![Alt text](./p4.jpg)
 
 ```mermaid
 ---
