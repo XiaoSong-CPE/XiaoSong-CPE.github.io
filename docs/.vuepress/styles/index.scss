@@ -35,13 +35,13 @@
   }
 
   // let h2 - h6 break-before: page
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    break-before: page;
-  }
+  // h2,
+  // h3,
+  // h4,
+  // h5,
+  // h6 {
+  //   break-before: page;
+  // }
 
   // remove h2 underlines
   h2 {
@@ -62,7 +62,14 @@
   }
 
   // set print page size
+  // @page {
+  //   size: 192mm 108mm;
+  // }
   @page {
-    size: 192mm 108mm;
+    size: A4;
+  }
+
+  code {
+    white-space: pre-wrap;
   }
 }

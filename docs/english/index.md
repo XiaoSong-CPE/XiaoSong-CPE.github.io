@@ -10,8 +10,11 @@
 - Notes on the English Character
 
 ## Assignment
+
+### Presentation
 - [Week 9-2](Week_9-2.md)
 
-## Other
+### Outline
 
 - [Globe Poverty](Globe_Poverty.md)
+- [Trump's Inaugural Address Analysis](Trump's_Inaugural_Address_Analysis.md)
