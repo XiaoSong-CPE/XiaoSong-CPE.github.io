@@ -38,7 +38,7 @@ MSA is a prime example of the eclectic nature of academic research on metaphor i
 
 ### 2.3 Advances in LLM Capabilities
 
-介绍一下 LLM 的优势。^[Brown T B, Mann B, Ryder N, et al. Language Models are Few-Shot Learners[C]. Conference on Neural Information Processing Systems (NeurIPS), 2020.]^[Ouyang L, Wu J, Jiang X, et al. Training language models to follow instructions with human feedback[EB/OL]. 2022.]^[Chowdhery A, Narang S, Devlin J, et al. PaLM: Scaling Language Modeling with Pathways[EB/OL]. arXiv:2204.02311[cs.CL], 2022.]^[Zhang S, Roller S, Goyal N, et al. Opt: Open Pre-trained Transformer Language Models[EB/OL]. ArXiv, abs/2205.01068, 2022.]^[Zeng A, Liu X, Du Z, et al. Glm-130b: An Open Bilingual Pre-trained Model[C]. ICLR 2023 poster, 2023.]^[Touvron H, Lavril T, Izacard G, et al. Llama: Open and Efficient Foundation Language Models[EB/OL]. ArXiv, abs/2302.13971, 2023.]
+介绍一下 LLM 的优势。^[Brown T B, Mann B, Ryder N, et al. Language Models are Few-Shot Learners[C]. Conference on Neural Information Processing Systems (NeurIPS), 2020.]^[Shen Y, Song K, Tan X, et al. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace[EB/OL]. arXiv:2303.17580[cs.CL], 2023.]
 
 ## 3 Datasets
 
@@ -114,4 +114,4 @@ flowchart TB
 
 ## 7 Acknowledgment
 
-这些参考资料不知道放哪里合适，就写这里吧。^[Dementieva D, Trifinov I, Likhachev A, et al. Detecting Text Formality: A Study of Text Classification Approaches[EB/OL]. arXiv:2204.08975[cs.CL], 2022.]^[Wu C, Yin S, Qi W, et al. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models[EB/OL]. arXiv:2303.04671[cs.CV], 2023.]^[Shen Y, Song K, Tan X, et al. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace[EB/OL]. arXiv:2303.17580[cs.CL], 2023.]^[秦琨. 基于深度学习的简历事件提取研究[D].华中科技大学,2021.DOI:10.27157/d.cnki.ghzku.2021.005568.]
+这些参考资料不知道放哪里合适，就写这里吧。^[Dementieva D, Trifinov I, Likhachev A, et al. Detecting Text Formality: A Study of Text Classification Approaches[EB/OL]. arXiv:2204.08975[cs.CL], 2022.]^[Wu C, Yin S, Qi W, et al. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models[EB/OL]. arXiv:2303.04671[cs.CV], 2023.]^[秦琨. 基于深度学习的简历事件提取研究[D].华中科技大学,2021.DOI:10.27157/d.cnki.ghzku.2021.005568.]
