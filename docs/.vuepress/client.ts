@@ -5,7 +5,7 @@ import ppt from './layouts/ppt.vue';
 
 export default defineClientConfig({
   layouts: {
-    layout,
+    Layout: layout,
     fulltext,
     ppt,
   },
