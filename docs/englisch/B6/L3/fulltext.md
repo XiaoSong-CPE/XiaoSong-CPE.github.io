@@ -1,7 +1,8 @@
 ---
-type: fulltext
+layout: fulltext
 title: How to Get the Poor off Our Conscience
 author: John Kenneth Galbraith
+sidebar: false
 ---
 
 I would like to reflect on one of the oldest of human exercises, the process by which over the years, and indeed over the centuries, we have undertaken to get the poor off our conscience.

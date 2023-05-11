@@ -1,7 +1,8 @@
 ---
-type: fulltext
+layout: fulltext
 title: Nettles
 author: Alice Munro
+sidebar: false
 ---
 
 In the summer of 1979, I walked into the kitchen of my friend Sunny's house near Uxbridge, Ontario, and saw a man standing at the counter, making himself a ketchup sandwich.

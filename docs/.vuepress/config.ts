@@ -60,32 +60,6 @@ export default defineUserConfig({
                         link: '/deutsch/',
                     },
                 ],
-                // sidebar: {
-                //     '/english/': [
-                //         {
-                //             text: 'Modernes Englisch',
-                //             children: [
-                //                 {
-                //                     text: 'Buch 6 Notizen',
-                //                     children: [
-                //                         'B6U4_Nettles.md',
-                //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience.md',
-                //                         'B6U9_The_Bluest_Eye.md'
-                //                     ]
-                //                 },
-                //                 {
-                //                     text: 'Buch 6 Texte',
-                //                     children: [
-                //                         'B6U4_Nettles_(fulltext).md',
-                //                         'B6U7_How_to_Get_the_Poor_off_Our_Conscience_(fulltext).md',
-                //                         'B6U9_The_Bluest_Eye_(fulltext).md'
-                //                     ]
-                //                 },
-                //             ]
-                //         }
-                //     ]
-                // }
-
             },
         },
     }),

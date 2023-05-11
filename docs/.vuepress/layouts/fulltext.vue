@@ -23,7 +23,7 @@ onMounted(() => {
   </ParentLayout>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .fulltext {
   counter-reset: section;
 

@@ -1,7 +1,8 @@
 ---
-type: fulltext
+layout: fulltext
 title: The Bluest Eye
 author: Toni Morrison
+sidebar: false
 ---
 
 They come from Mobile. Aiken. From Newport News. From Marietta. From Meridian. And the sounds of these places in their mouths make you think of love. When you ask them where they are from, they tilt their heads and say "Mobile" and you think you've been kissed. They say "Aiken" and you see a white butterfly glance off a fence with a torn wing. They say "Nagadoches" and you want to say "Yes, I will." You don't know what these towns are like, but you love what happens to the air when they open their lips and let the names ease out.

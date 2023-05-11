@@ -16,7 +16,7 @@
   }
 }
 
-// print styles
+// general printing optimization styles
 @media print {
   // hide navbar, sidebar, and page meta
   .navbar,
@@ -29,30 +29,6 @@
     padding-left: 0;
   }
 
-  // set text alignment to justify
-  .page {
-    text-align: justify;
-  }
-
-  // let h2 - h6 break-before: page
-  // h2,
-  // h3,
-  // h4,
-  // h5,
-  // h6 {
-  //   break-before: page;
-  // }
-
-  // remove h2 underlines
-  h2 {
-    border-bottom: none;
-  }
-
-  // remove footnote separator
-  hr.footnotes-sep {
-    display: none;
-  }
-
   // prevent images and videos from breaking across pages
   // max height is page hight
   img,
@@ -61,15 +37,9 @@
     max-height: 100vh;
   }
 
-  // set print page size
-  // @page {
-  //   size: 192mm 108mm;
-  // }
-  @page {
-    size: A4;
-  }
-
+  // prevent code blocks from breaking across pages
   code {
     white-space: pre-wrap;
   }
+
 }
