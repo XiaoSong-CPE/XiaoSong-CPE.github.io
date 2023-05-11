@@ -1,11 +1,15 @@
-<script setup>
+<script setup lang="ts">
 import ParentLayout from "@vuepress/theme-default/layouts/Layout.vue";
 import { onMounted } from "vue";
+import { usePageFrontmatter } from "@vuepress/client";
 
-// onMounted后给.theme-default-content添加.fulltext
+// get frontmatter
+const $frontmatter = usePageFrontmatter();
+
 onMounted(() => {
+  // 给.theme-default-content添加.fulltext
   const content = document.querySelector(".theme-default-content");
-  content.classList.add("fulltext");
+  if (content) content.classList.add("fulltext");
 });
 
 </script>
@@ -15,7 +19,7 @@ onMounted(() => {
     <template #page-content-top>
       <h1>
         {{ $frontmatter.title }}
-        <span style="opacity: 70%; font-size: 50%; white-space: nowrap">
+        <span class="subtitle">
           {{ $frontmatter.author }}
         </span>
       </h1>
@@ -23,7 +27,7 @@ onMounted(() => {
   </ParentLayout>
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .fulltext {
   counter-reset: section;
 

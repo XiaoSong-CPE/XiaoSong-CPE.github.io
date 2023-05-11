@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import ParentLayout from "@vuepress/theme-default/layouts/Layout.vue";
 import { onMounted } from "vue";
 import { usePageFrontmatter } from "@vuepress/client";
@@ -6,15 +6,22 @@ import { usePageFrontmatter } from "@vuepress/client";
 // onMounted后给.theme-default-content添加.ppt
 onMounted(() => {
   const content = document.querySelector(".theme-default-content");
-  content.classList.add("ppt");
+  if (content) content.classList.add("ppt");
 });
 
+// get frontmatter
 const $frontmatter = usePageFrontmatter();
 
-// change the title of the page to `Week ${$frontmatter.week}: Presentation by Group Six`
 onMounted(() => {
+  // change the title of the page to `Week ${$frontmatter.week}: Presentation by Group Six`
   console.log($frontmatter);
   document.title = `Week ${$frontmatter.value.week}: Presentation by Group Six`;
+
+  // add print styles inside .ppt
+  var style = document.createElement("style");
+  style.innerHTML = "@page { size: 192mm 108mm; }";
+  document.querySelector(".ppt")?.appendChild(style);
+
 });
 </script>
 
@@ -47,11 +54,6 @@ onMounted(() => {
     // remove h2 underlines
     h2 {
       border-bottom: none;
-    }
-
-    // set print page size
-    @page {
-      size: 192mm 108mm;
     }
   }
 }

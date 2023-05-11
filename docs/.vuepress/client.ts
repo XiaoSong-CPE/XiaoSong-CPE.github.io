@@ -1,11 +1,11 @@
 import { defineClientConfig } from '@vuepress/client'
-import layout from './layouts/layout.vue'
 import fulltext from './layouts/fulltext.vue';
 import ppt from './layouts/ppt.vue';
+import tagbuch from './layouts/tagbuch.vue';
 
 export default defineClientConfig({
   layouts: {
-    Layout: layout,
+    tagbuch,
     fulltext,
     ppt,
   },
