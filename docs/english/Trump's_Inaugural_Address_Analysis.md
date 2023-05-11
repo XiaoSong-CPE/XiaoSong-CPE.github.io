@@ -62,7 +62,7 @@ Political metaphors are widely used to shape public opinion and influence decisi
 
 ## 5 总结与展望
 
-## 7 致谢^[张辰麟. 基于自然语言处理技术的汉语委婉语资源库构建与应用[D].江西师范大学,2021.DOI:10.27178/d.cnki.gjxsu.2021.000497.]
+## 6 致谢^[张辰麟. 基于自然语言处理技术的汉语委婉语资源库构建与应用[D].江西师范大学,2021.DOI:10.27178/d.cnki.gjxsu.2021.000497.]
 
 ```mermaid
 ---
