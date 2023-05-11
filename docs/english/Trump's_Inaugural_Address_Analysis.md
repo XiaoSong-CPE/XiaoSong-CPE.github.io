@@ -104,7 +104,7 @@ flowchart TB
 
 ### 5.2 隐喻提取效果展示
 
-### 5.2 Case Study
+### 5.3 Case Study
 
 以特朗普就职演讲为例，尝试使用 MSA 模型进行快速政治隐喻分析。^[[The Inaugural Address – The White House](https://trumpwhitehouse.archives.gov/briefings-statements/the-inaugural-address)]^[武建国,龚纯,宋玥.政治话语的批评隐喻分析——以特朗普演讲为例[J].外国语(上海外国语大学学报),2020,43(03):80-88.]^[孙毅,李全.政治隐喻与隐喻政治——基于特朗普总统就职演讲的隐喻图景分析[J].山东外语教学,2019,40(05):35-47.DOI:10.16482/j.sdwy37-1026.2019-05-004.]
 
