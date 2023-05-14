@@ -50,8 +50,10 @@ Great empires have always contained different peoples with very different ways o
 > Please comment on the following statements:
 >
 > 1. Every country, of course. has ts distnctive develooment problems and mus soive them according to ts own tradfions. canacities. and values. (para. 2)
-> 2. Their objective remains that of making the world over in the image of their dogmatic ideology. (Para. 21)
+> 2. Their objective remains that of making the world over in the image of their dogmatic ideology. (para. 21)
 
+1. This statement is of some rationality. Because of the individual differences between countries, the problems that arise from them are also unique. Therefore, the solutions should also vary from country to country. Take the Soviet Gorbachev reform as an example. In order to accelerate the development of the country, he reformed both in economy and politics, but the result was the collapse of the Soviet Union. The reason is that he did not completely analyze it according to the nature and specific situation of his country. Although he carried out the fundamental reform, he derailed from the socialist direction. Ultimately, the reform failed. From the point of view of Marxist philosophy, contradictions have particularity, so we should analyze them by case.
+2. This statement is inappropriate. As previously mentioned "An ideology is not a picture of actuality; it is a model derived from actuality, a model designed to isolate certain salient features of actuality..." therefore, We can know that ideology is not substantive in the cognition and ideological construction to the real world. In other words, creating a new world based on ideology is a way of putting the cart before the horse. Ideology is an abstract concept, and there is no right or wrong in itself, but because of this, it is impossible to create a correct and regular world according to ideology. This statement shows the dogma and arbitrary ideas of ideologists that should be criticized.
 
 
 ## Question 5 <badge text="周康" />
