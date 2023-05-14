@@ -25,7 +25,7 @@ week: 12-1
 
 综上所述，这 4 种译文均不能令我满意。
 
-A possible better translation:
+我的翻译:
 
 **在众多新生国家渴求实现繁荣富强的时代背景下，回顾美国的强国之路，或许有所启示。**
 
@@ -48,7 +48,7 @@ A possible better translation:
 
 综上所述，译文 3 最对我的胃口。
 
-A possible better translation:
+我的翻译:
 
 **在一众哲学思想中，存在若干概念，其对美国社会经济的快速发展起到重要作用。**
 
