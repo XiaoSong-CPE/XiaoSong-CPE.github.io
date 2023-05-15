@@ -7,6 +7,8 @@ actions:
     link: /deutsch/Einheit_1
   - text: Lesen
     link: /deutsch/text
+  - text: Vokabeln
+    link: /deutsch/vokabeln/b1e1
 ---
 
 ## 学习资源
