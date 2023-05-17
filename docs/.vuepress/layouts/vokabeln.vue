@@ -13,9 +13,8 @@ import {
   NFormItem,
   deDE,
   dateDeDE,
-  type GlobalTheme,
 } from "naive-ui";
-import type { DataTableColumns } from "naive-ui";
+import type { GlobalTheme, DataTableColumns } from "naive-ui";
 import type { Ref } from "vue";
 import { useLocalStorage } from "@vueuse/core";
 
