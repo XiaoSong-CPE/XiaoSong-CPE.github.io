@@ -4,7 +4,7 @@ import { ref, computed, onMounted, h, watch } from "vue";
 import json from "./vokabeln.json";
 import {
   NSelect,
-  NCheckbox,
+  // NCheckbox,
   NDataTable,
   NInputGroup,
   darkTheme,
@@ -205,7 +205,7 @@ observer.observe(targetNode, { attributes: true });
             </n-input-group>
           </n-form-item>
 
-          <n-form-item label="选择遮罩">
+          <!-- <n-form-item label="选择遮罩">
             <n-checkbox v-model:checked="Stern"> Stern </n-checkbox>
             <n-checkbox v-model:checked="Wort"> Wort </n-checkbox>
             <n-checkbox v-model:checked="Wortart"> Wortart </n-checkbox>
@@ -213,7 +213,7 @@ observer.observe(targetNode, { attributes: true });
             <n-checkbox v-model:checked="Beispielsatz">
               Beispielsatz
             </n-checkbox>
-          </n-form-item>
+          </n-form-item> -->
         </n-form>
 
         <!-- show vokabeln tables -->
