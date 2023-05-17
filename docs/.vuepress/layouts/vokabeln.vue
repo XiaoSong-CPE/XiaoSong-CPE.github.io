@@ -19,6 +19,7 @@ import type { DataTableColumns } from "naive-ui";
 import type { Ref } from "vue";
 import { useLocalStorage } from "@vueuse/core";
 
+
 let mask = useLocalStorage("mask", {
   Stern: false,
   Wort: false,
@@ -127,34 +128,14 @@ const Einheiten = ref([
 const Einheit = useLocalStorage("Einheit", "Einheit_1");
 
 // define Teilen
-const Teilen = ref([
-  {
-    label: "Einführung",
-    value: "Einführung",
-  },
-  {
-    label: "Text",
-    value: "Text",
-  },
-
-  {
-    label: "Übungen",
-    value: "Übungen",
-  },
-  {
-    label: "Intentionen",
-    value: "Intentionen",
-  },
-  {
-    label: "Hörverstehen",
-    value: "Hörverstehen",
-  },
-  {
-    label: "Leseverstehen",
-    value: "Leseverstehen",
-  },
-]);
-const Teil = useLocalStorage("Teil", ["Text"]);
+const Teil = useLocalStorage("Teil", {
+  Einführung: true,
+  Text: true,
+  Übungen: true,
+  Intentionen: true,
+  Hörverstehen: true,
+  Leseverstehen: true,
+});
 
 // define vokabeln
 const vokabeln = computed(() => json[Buch.value][Einheit.value]);
@@ -235,12 +216,23 @@ observer.observe(targetNode, { attributes: true });
           </n-form-item>
 
           <n-form-item label="选择单词表">
-            <n-input-group>
-              <n-select v-model:value="Teil" :options="Teilen" multiple />
-            </n-input-group>
+            <n-checkbox v-model:checked="Teil.Einführung">
+              Einführung
+            </n-checkbox>
+            <n-checkbox v-model:checked="Teil.Text"> Text </n-checkbox>
+            <n-checkbox v-model:checked="Teil.Übungen"> Übungen </n-checkbox>
+            <n-checkbox v-model:checked="Teil.Intentionen">
+              Intentionen
+            </n-checkbox>
+            <n-checkbox v-model:checked="Teil.Hörverstehen">
+              Hörverstehen
+            </n-checkbox>
+            <n-checkbox v-model:checked="Teil.Leseverstehen">
+              Leseverstehen
+            </n-checkbox>
           </n-form-item>
 
-          <n-form-item label="选择隐藏">
+          <n-form-item label="遮住……">
             <n-checkbox v-model:checked="mask.Stern">Stern</n-checkbox>
             <n-checkbox v-model:checked="mask.Wort">Wort</n-checkbox>
             <n-checkbox v-model:checked="mask.Wortart">Wortart</n-checkbox>
@@ -257,7 +249,7 @@ observer.observe(targetNode, { attributes: true });
         <h2>{{ Buch.replace("_", " ") }} {{ Einheit.replace("_", " ") }}</h2>
 
         <!-- Einführung -->
-        <div v-if="vokabeln?.Einführung && Teil.includes(`Einführung`)">
+        <div v-if="vokabeln?.Einführung && Teil.Einführung">
           <h3>Einführung</h3>
           <n-data-table
             :columns="columns"
@@ -267,7 +259,7 @@ observer.observe(targetNode, { attributes: true });
         </div>
 
         <!-- Text -->
-        <div v-if="vokabeln?.Text && Teil.includes(`Text`)">
+        <div v-if="vokabeln?.Text && Teil.Text">
           <h3>Text</h3>
           <n-data-table
             :columns="columns"
@@ -277,7 +269,7 @@ observer.observe(targetNode, { attributes: true });
         </div>
 
         <!-- Übungen -->
-        <div v-if="vokabeln?.Übungen && Teil.includes(`Übungen`)">
+        <div v-if="vokabeln?.Übungen && Teil.Übungen">
           <h3>Übungen</h3>
           <n-data-table
             :columns="columns"
@@ -287,7 +279,7 @@ observer.observe(targetNode, { attributes: true });
         </div>
 
         <!-- Intentionen -->
-        <div v-if="vokabeln?.Intentionen && Teil.includes(`Intentionen`)">
+        <div v-if="vokabeln?.Intentionen && Teil.Intentionen">
           <h3>Intentionen</h3>
           <n-data-table
             :columns="columns"
@@ -297,7 +289,7 @@ observer.observe(targetNode, { attributes: true });
         </div>
 
         <!-- Hörverstehen -->
-        <div v-if="vokabeln?.Hörverstehen && Teil.includes(`Hörverstehen`)">
+        <div v-if="vokabeln?.Hörverstehen && Teil.Hörverstehen">
           <h3>Hörverstehen</h3>
           <n-data-table
             :columns="columns"
@@ -307,7 +299,7 @@ observer.observe(targetNode, { attributes: true });
         </div>
 
         <!-- Leseverstehen -->
-        <div v-if="vokabeln?.Leseverstehen && Teil.includes(`Leseverstehen`)">
+        <div v-if="vokabeln?.Leseverstehen && Teil.Leseverstehen">
           <h3>Leseverstehen</h3>
           <n-data-table
             :columns="columns"
