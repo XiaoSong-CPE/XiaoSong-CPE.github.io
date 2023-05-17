@@ -4,7 +4,7 @@ import { ref, computed, onMounted, h, watch } from "vue";
 import json from "./vokabeln.json";
 import {
   NSelect,
-  // NCheckbox,
+  NCheckbox,
   NDataTable,
   NInputGroup,
   darkTheme,
@@ -19,22 +19,49 @@ import type { DataTableColumns } from "naive-ui";
 import type { Ref } from "vue";
 import { useLocalStorage } from "@vueuse/core";
 
-let Stern = ref(false);
-let Wort = ref(false);
-let Wortart = ref(false);
-let Chinesisch = ref(false);
-let Beispielsatz = ref(false);
+let mask = useLocalStorage("mask", {
+  Stern: false,
+  Wort: false,
+  Wortart: false,
+  Chinesisch: false,
+  Beispielsatz: false,
+});
 
-// watch Stern, Wort, Wortart, Chinesisch, Beispielsatz
-// if true, add .masked to .table-stern, .table-wort, .table-wortart, .table-chinesisch, .table-beispielsatz for all
-// if false, remove .masked from .table-stern, .table-wort, .table-wortart, .table-chinesisch, .table-beispielsatz for all
-const classes = ["stern", "wort", "wortart", "chinesisch", "beispielsatz"];
-watch([Stern, Wort, Wortart, Chinesisch, Beispielsatz], (values) => {
-  classes.forEach((className, index) => {
-    document.querySelectorAll(`.table-${className}`).forEach((el) => {
-      el.classList.toggle("masked", values[index]);
-    });
-  });
+watch(mask, (values) => {
+  let style = `
+  <style>
+    tr td.table-stern {
+      color: ${
+        values.Stern ? "transparent" : "var(--n-td-text-color)"
+      } !important;
+    }
+    tr td.table-wort {
+      color: ${
+        values.Wort ? "transparent" : "var(--n-td-text-color)"
+      } !important;
+    }
+    tr td.table-wortart {
+      color: ${
+        values.Wortart ? "transparent" : "var(--n-td-text-color)"
+      } !important;
+    }
+    tr td.table-chinesisch {
+      color: ${
+        values.Chinesisch ? "transparent" : "var(--n-td-text-color)"
+      } !important;
+    }
+    tr td.table-beispielsatz {
+      color: ${
+        values.Beispielsatz ? "transparent" : "var(--n-td-text-color)"
+      } !important;
+    }
+    tr:hover td {
+      color: var(--n-td-text-color) !important;
+    }
+  </style>
+  `;
+  let styleElement = document.getElementById("style-storage");
+  if (styleElement) styleElement.innerHTML = style;
 });
 
 // define Buecher
@@ -192,32 +219,42 @@ observer.observe(targetNode, { attributes: true });
 <template>
   <ParentLayout>
     <template #page-content-top>
+      <!-- style storage -->
+      <div id="style-storage"></div>
+
       <n-config-provider :theme="theme" :locale="deDE" :date-locale="dateDeDE">
         <!-- title -->
         <h1>Vokabeln</h1>
 
         <n-form>
-          <n-form-item label="选择单词表">
+          <n-form-item label="选择课本和单元">
             <n-input-group>
               <n-select v-model:value="Buch" :options="Buecher" />
               <n-select v-model:value="Einheit" :options="Einheiten" />
+            </n-input-group>
+          </n-form-item>
+
+          <n-form-item label="选择单词表">
+            <n-input-group>
               <n-select v-model:value="Teil" :options="Teilen" multiple />
             </n-input-group>
           </n-form-item>
 
-          <!-- <n-form-item label="选择遮罩">
-            <n-checkbox v-model:checked="Stern"> Stern </n-checkbox>
-            <n-checkbox v-model:checked="Wort"> Wort </n-checkbox>
-            <n-checkbox v-model:checked="Wortart"> Wortart </n-checkbox>
-            <n-checkbox v-model:checked="Chinesisch"> Chinesisch </n-checkbox>
-            <n-checkbox v-model:checked="Beispielsatz">
-              Beispielsatz
-            </n-checkbox>
-          </n-form-item> -->
+          <n-form-item label="选择隐藏">
+            <n-checkbox v-model:checked="mask.Stern">Stern</n-checkbox>
+            <n-checkbox v-model:checked="mask.Wort">Wort</n-checkbox>
+            <n-checkbox v-model:checked="mask.Wortart">Wortart</n-checkbox>
+            <n-checkbox v-model:checked="mask.Chinesisch"
+              >Chinesisch</n-checkbox
+            >
+            <n-checkbox v-model:checked="mask.Beispielsatz"
+              >Beispielsatz</n-checkbox
+            >
+          </n-form-item>
         </n-form>
 
         <!-- show vokabeln tables -->
-        <h2>{{ Buch.replace("_"," ") }} {{ Einheit.replace("_"," ") }}</h2>
+        <h2>{{ Buch.replace("_", " ") }} {{ Einheit.replace("_", " ") }}</h2>
 
         <!-- Einführung -->
         <div v-if="vokabeln?.Einführung && Teil.includes(`Einführung`)">
@@ -226,7 +263,6 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Einführung"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
 
@@ -237,7 +273,6 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Text"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
 
@@ -248,7 +283,6 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Übungen"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
 
@@ -259,7 +293,6 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Intentionen"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
 
@@ -270,7 +303,6 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Hörverstehen"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
 
@@ -281,22 +313,9 @@ observer.observe(targetNode, { attributes: true });
             :columns="columns"
             :data="vokabeln?.Leseverstehen"
             :row-key="rowKey"
-            class="vokabeln-table"
           />
         </div>
       </n-config-provider>
     </template>
   </ParentLayout>
 </template>
-
-<style lang="scss">
-.vokabeln-table {
-  tr td.masked {
-    background-color: var(--n-td-text-color);
-  }
-
-  tr:hover td.masked {
-    background-color: transparent;
-  }
-}
-</style>
