@@ -26,4 +26,3 @@ Die Zahlen beginnen bei `1` statt bei `2`.
 - [Wochen 12](12.md)
 - [Wochen 13](13.md)
 - [Wochen 14](14.md)
-- [Wochen 15](15.md)

@@ -8,7 +8,7 @@ actions:
   - text: Lesen
     link: /deutsch/text
   - text: Vokabeln
-    link: /deutsch/vokabeln/b1e1
+    link: /deutsch/vokabeln
 ---
 
 ## 学习资源
