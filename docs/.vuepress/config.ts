@@ -4,12 +4,14 @@ import markdownItDeflist from 'markdown-it-deflist'
 import markdownItFootnote from 'markdown-it-footnote'
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 import { searchPlugin } from '@vuepress/plugin-search'
+import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
     plugins: [
         mdEnhancePlugin({
             // 启用 mermaid
             mermaid: true,
+            // 启用 echart
             echarts: true,
         }),
         searchPlugin({

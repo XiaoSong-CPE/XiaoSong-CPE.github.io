@@ -1,4 +1,3 @@
 ---
-layout: vokabeln
 sidebar: false
 ---
