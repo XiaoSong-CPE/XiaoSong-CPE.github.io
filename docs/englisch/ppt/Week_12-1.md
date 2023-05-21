@@ -11,7 +11,7 @@ week: 12-1
 
 Give GPT-4 the original text from our textbook as a prompt and ask him/her the question. Repeat several times and choose an answer that meets the following requirement:
 
-1. The first half of the answer should be about 'ideology' or something related to it.
+1. The first half of the answer should be about "ideology" or something related to it.
 2. The second part of the answer is a description of pragmatism/imperialism.
 3. The answer does not contain an obvious logical fallacy.
 
