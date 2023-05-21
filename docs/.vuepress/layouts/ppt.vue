@@ -1,19 +1,27 @@
 <script setup lang="ts">
 import ParentLayout from "@vuepress/theme-default/layouts/Layout.vue";
 import { onMounted } from "vue";
-import { usePageFrontmatter } from "@vuepress/client";
+import { usePageData } from "@vuepress/client";
 
-// get frontmatter
-const $frontmatter = usePageFrontmatter();
+// get page data
+const $pageDate = usePageData();
 
 onMounted(() => {
+  console.log($pageDate.value);
+
   // onMounted后给.theme-default-content添加.ppt
   const content = document.querySelector(".theme-default-content");
   if (content) content.classList.add("ppt");
 
-  // change the title of the page to `Week ${$frontmatter.week}: Presentation by Group Six`
-  console.log($frontmatter);
-  document.title = `Week ${$frontmatter.value.week}: Presentation by Group Six`;
+  // change the title to `Week ${$frontmatter.week}: Presentation by Group Six`
+  let regex = /Week_(\d+)-(\d+)/;
+  let match = ($pageDate.value.path).match(regex);
+  console.log(match);
+  if (match) {
+    $pageDate.value.title = `Week ${match[1]}-${match[2]}: Presentation by Group Six`;
+  } else {
+    new Error("No match");
+  }
 
   // add print styles inside .ppt
   var style = document.createElement("style");
@@ -28,7 +36,7 @@ onMounted(() => {
       <h1>
         Presentation by Group Six
         <span style="opacity: 70%; font-size: 50%; white-space: nowrap">
-          Week {{ $frontmatter.week }}
+          <!-- Week {{ $frontmatter.week }} -->
         </span>
       </h1>
     </template>
@@ -49,7 +57,7 @@ onMounted(() => {
     h4,
     h5,
     h6 {
-      page-break-after: avoid;
+      break-after: avoid;
     }
 
     // remove h2 underlines
