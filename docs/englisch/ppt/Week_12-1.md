@@ -102,11 +102,55 @@ Overall, the second translation is more accurate and effective in conveying the 
 ## Question 6 <badge text="林佳成" />
 
 > ln paragraph 9, compare the two translations in PPT of the sentence "Our national faith has been not in propositions but in process."
+>
+> Translation
+>
+> 1. 我们国民的信仰在于过程而不是主张。
+> 2. 我们美国人信奉的是实际过程，而不是主张之类的东西。
+> 3. 美国人注重的是实际过程，而不是空谈构想。
+> 4. 美国人不是空头理论家,而是实干家。
+> 5. 美国人深知空谈误国，实干兴邦。
+
+译文一中“信仰”与后续的“过程”和“主张”不搭配，整个译文属于 dead translation,无法传达原文意思。
+
+译文二中“信奉”一词相较之下比较合适，但是“实际过程”属于四字结构，“主张之类的东西”这个翻译就显得与整句风格不统一，需要改进。
+
+译文三、四和五都把“faith”一词做了特殊处理：
+
+三进行了词性转换，翻译成注重；四省略了“faith”一词意思但“空头理论家”和“实干家”在字数上不对应，读着比较别扭；五的翻译引用了邓小平“南方谈话”内容，但是和美国的国情不太符合。
+
+个人觉得译文三最合适。
 
 ## Question 7 <badge text="林佳成" />
 
 > ln paragraph 9, compare the three translations in PPT of the sentence "lt has not permitted dogma to falsify reality, imprison experience, or narrow the spectrum of choice."
+>
+> 译文比较：
+>
+> 1. 没有允许教条呈现假的现实，禁锢经验，或者缩小选择范围。
+> 2. 没有允许教条给人带来假象，约束人们的行为，或者使选择范围变得十分狭小。
+> 3. 没有因教条而被假象迷惑，束手束脚，或者看不到选择的余地。
+
+译文一中假的现实翻译比较迷惑，禁锢经验搭配也不恰当；
+
+译文二比较贴切但是用词可以再精炼一些，比较口语，与整体文风不搭配；
+
+前两个译文的“没有允许”翻译都太生硬，不符合中文表达习惯
+
+译文三前面的没有因...而...词语结构比较合适，但后续翻译有点前后不连贯。
+
+相较之下，三能够使用。
+
+改进：不因教条而受假象迷惑，受经验局限或者选择受限。
 
 ## Question 8 <badge text="林佳成" />
 
 > ln paragraph 10, compare the two translations in PPT of the sentence "Pragmatism is no more wholly devoid of abstractions than ideology is wholly devoid of experience."
+>
+> Translation:
+>
+> 实用主义中不会一点抽象观念的东西都没有，而意识形态体系中也不会一点经验的东西都没有。
+
+评价：不太满意，东西太重复翻译了
+
+改进：实用主义不会毫无抽象概念，正如意识形态体系不会毫无实践经验。

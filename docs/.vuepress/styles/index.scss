@@ -18,6 +18,9 @@
       font-size: 50%;
       white-space: nowrap;
     }
+    img {
+      border-radius: 1em;
+    }
   }
 }
 
@@ -45,5 +48,11 @@
   // prevent code blocks from breaking across pages
   code {
     white-space: pre-wrap;
+  }
+
+  // set font to Times New Roman
+  body {
+    font-family: "Times New Roman", Times, serif, "SimSun", "STSong", sans-serif !important;
+    text-align: justify;
   }
 }
