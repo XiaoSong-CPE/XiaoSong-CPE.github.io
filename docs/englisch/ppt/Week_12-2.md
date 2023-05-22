@@ -16,7 +16,7 @@ layout: ppt
 
 > What is the tone of the statement in paragraph 15?
 
-
+Critical.
 
 ## Question 3 (Lin Jiacheng)
 
@@ -34,7 +34,9 @@ layout: ppt
 
 > Why has there been much discussion on underdeveloped countries? What is the author's view on this issue?
 
+Because the underdeveloped countries are suffering many political and economic problems.
 
+It is a problem to be answered by experience and experiment.
 
 ## Question 5 (Lin Jiacheng & Jin Zhenxian)
 
