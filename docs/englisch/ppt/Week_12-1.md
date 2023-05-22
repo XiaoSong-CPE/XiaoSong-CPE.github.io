@@ -1,6 +1,5 @@
 ---
 layout: ppt
-week: 12-1
 ---
 
 ## Question 1 <badge text="周康" />

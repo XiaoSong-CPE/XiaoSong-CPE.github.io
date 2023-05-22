@@ -16,6 +16,7 @@
 - [Week 11-1](./ppt/Week_11-1.md)
 - [Week 11-2](./ppt/Week_11-2.md)
 - [Week 12-1](./ppt/Week_12-1.md)
+- [Week 12-2](./ppt/Week_12-2.md)
 
 ### Outline
 
