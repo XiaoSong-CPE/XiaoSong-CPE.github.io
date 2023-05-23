@@ -34,10 +34,8 @@ onMounted(() => {
   <ParentLayout>
     <template #page-content-top>
       <h1>
-        Presentation by Group Six
-        <span style="opacity: 70%; font-size: 50%; white-space: nowrap">
-          <!-- Week {{ $frontmatter.week }} -->
-        </span>
+        {{ $pageDate.title.split(":")[1] }}
+        <span class="subtitle">{{ $pageDate.title.split(":")[0] }}</span>
       </h1>
     </template>
   </ParentLayout>
@@ -46,7 +44,9 @@ onMounted(() => {
 <style lang="scss">
 // print styles
 .ppt {
+
   @media print {
+
     // let h2 - h6 break-before: page
     h2 {
       break-before: page;
@@ -64,6 +64,7 @@ onMounted(() => {
     h2 {
       border-bottom: none;
     }
+
   }
 }
 </style>

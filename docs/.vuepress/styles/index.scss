@@ -26,6 +26,7 @@
 
 // general printing optimization styles
 @media print {
+
   // hide navbar, sidebar, and page meta
   .navbar,
   .sidebar,
@@ -54,5 +55,11 @@
   body {
     font-family: "Times New Roman", Times, serif, "SimSun", "STSong", sans-serif !important;
     text-align: justify;
+  }
+
+  // table color for 金贞贤
+  table thead tr {
+    background-color: #1e88e5!important;
+    color: #fff;
   }
 }
