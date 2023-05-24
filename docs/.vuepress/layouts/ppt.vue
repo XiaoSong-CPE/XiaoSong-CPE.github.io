@@ -47,22 +47,20 @@ onMounted(() => {
 
   @media print {
 
-    // let h2 - h6 break-before: page
+
     h2 {
+      // let h2 start on a new page
       break-before: page;
+      // remove h2 underlines
+      border-bottom: none;
     }
 
-    //
+    // 
     h3,
     h4,
     h5,
     h6 {
       break-after: avoid;
-    }
-
-    // remove h2 underlines
-    h2 {
-      border-bottom: none;
     }
 
   }

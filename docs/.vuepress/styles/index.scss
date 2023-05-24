@@ -21,12 +21,27 @@
     img {
       border-radius: 1em;
     }
+
+    ol.footnotes-list {
+      counter-reset: fn-counter;
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ol.footnotes-list li.footnote-item::before {
+      content: "[" counter(fn-counter) "]";
+      counter-increment: fn-counter;
+      display: inline;
+    }
+
+    ol.footnotes-list p {
+      display: inline;
+    }
   }
 }
 
 // general printing optimization styles
 @media print {
-
   // hide navbar, sidebar, and page meta
   .navbar,
   .sidebar,
@@ -59,7 +74,7 @@
 
   // table color for 金贞贤
   table thead tr {
-    background-color: #1e88e5!important;
+    background-color: #1e88e5 !important;
     color: #fff;
   }
 }
