@@ -22,21 +22,6 @@
       border-radius: 1em;
     }
 
-    ol.footnotes-list {
-      counter-reset: fn-counter;
-      list-style-type: none;
-      padding-left: 0;
-    }
-
-    ol.footnotes-list li.footnote-item::before {
-      content: "[" counter(fn-counter) "]";
-      counter-increment: fn-counter;
-      display: inline;
-    }
-
-    ol.footnotes-list p {
-      display: inline;
-    }
   }
 }
 

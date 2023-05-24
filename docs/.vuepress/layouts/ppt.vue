@@ -47,16 +47,14 @@ onMounted(() => {
 
   @media print {
 
-
-    h2 {
-      // let h2 start on a new page
+    // for h2 and h3
+    h2, h3 {
+      // let them start on a new page
       break-before: page;
-      // remove h2 underlines
+      // remove thier underlines
       border-bottom: none;
     }
 
-    // 
-    h3,
     h4,
     h5,
     h6 {
