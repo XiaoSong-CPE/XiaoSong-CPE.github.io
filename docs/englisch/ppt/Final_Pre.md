@@ -1,7 +1,3 @@
-## 
-
-## Reference Content
-
 ### Naturalist Character in _The Awakening_
 
 Main characters in naturalist fiction are usually faced with a fate dictated by their environments and their natural drives. They can not control their destinies, and nothing can change who they are and who they are going to be. Edna, the protagonist in The Awakening, is such kind of character.
@@ -47,3 +43,85 @@ Through this experience, Edna is successful in using art to shape and control he
 As Edna's self-consciousness becomes more and more clear, she finally moves out of the splendid house in New Orleans and lives in her own "pigeon house." Her children are sent to visit their grandmother, and her husband is absent due to business obligations. Upon his return, under the guise of a renovation of their home, Leonce moves to a hotel and explains away Edna's scandalous behavior. For a time, Edna lives in the illusion that she is indeed autonomous, a free, single woman without the burden of her role as wife and mother. However, it is only an illusion, for her husband and her children are temporarily absent, rather than suddenly nonexistent. This temporary state of autonomy is echoed in Chopin's name for Edna's small new home, a "pigeon house". As the name suggests, her new home is no less of a cage than any other that she has been inside. According to Culley, the pigeon house is "for the domesticated birds kept for show or sport. The breeds kept by these fashionable hobbyists were elegantly colored, little resembling the drab street pigeon." (Culley, 1976:58) Edna has actually traded in a gilded cage for a simpler one. Pigeons are not free, soaring birds; they fly away, but always return.
 
 In the process of her struggle for true self, Edna falls in love with Robert who she believes to be her true love. However, at the end of the novel, she realizes that Robert who claims to be in love with her, also views her as an object, rather than as a subject, in accordance with social norms. At the end of novel, in the "pigeon house", Robert tells her he says goodbye because he loves her and implies that he could not have Edna unless Leonce sets her free. She realizes that Robert accepts tradition and that he does not truly understand her. He does not realize that she belongs to herself. She says to Robert, as is described in Chapter 36, "You have been a very, very foolish boy, wasting your time dreaming of impossible things when you speak of Mr. Pontellier setting me free! I am nol longer one of Mr. Pontellier's possessions to dispose of or not. I give myself where I choose. If he were to say, 'Here, Robert, take her and be happy; she is yours,' I should laugh at you both." (Chopin, 137) His final departure suggests that he adheres to traditional social mores. In the end, realizing that her struggles for self-identity are futile, Edna chooses to drown herself. In a sense, Edna is a victim of an uncaring world.
+
+### Naturalist Writing Styles in _The Awakening_
+
+#### Facts-only approach
+
+Naturalism is an outgrowth of realism. Like realism, it aims to present an almost photographical accurate version of "real" life. It's full of facts and details about an everyday world ordinary people can recognize. However, the exhibition of the reality in naturalist fiction is quite different from that of realist fiction in which the rational factors occupy a dominant position. According to Zola, the author of the naturalist novel is comparable to the scientist in the laboratory, describing objectively the reality of the historical moments. In critical essays and reviews, many naturalists such as Frank Norris, Theodore Dreiser, repeatedly emphasize the importance of effacing authorial presence and letting situations speak for themselves. Norris explicitly advocates the suppression of the author's personality in fiction.
+
+Throughout the novel, Chopin uses a facts-only approach, a style of detailed observation of the truth of human experiences. She never gives comments on anyone and anything with traditional moral principles. She leaves that to God. Readers can make their own judgments by reading the novel closely. In order to exemplify the naturalist plot of individual decline, with its concern for the pressures of environment and circumstance, and its focus on forces beyond the control of the characters, Chopin gives an exquisite account of the settings around Edna. From these descriptions, we can clearly understand how the influence of the environment renders Edna to pursue self-ownership and how her dream is shattered.
+
+In _The Awakening_, Chopin puts Edna in different settings in order to show the huge influence of the environment on Edna. Edna takes on a different identity in her vacation setting in Grand Isle, in her independent home in New Orleans, and in just about every other environment that she inhabits. In her seaside vacation home on Grand Isle, far from social constraints, Edna begins to find herself. Chopin's lavish descriptions of the sea give us an insight into its powerful effect on Edna: "The voice of the sea is seductive; never ceasing, whispering, clamoring, murmuring, inviting the soul to wander for a spell in abysses of solitude; to lose itself in mazes of inward contemplation. The voice of the sea speaks to the soul. The touch of the sea is sensuous, enfolding the body in its soft, close embrace." (Chopin, 17)
+
+Back to the mansion in New Orleans, the four constraining walls quickly stifle all of the joys that she feels on Grand Isle. Chopin immediately gives a detailed account of Pontellier mansion in New Orleans in Chapter 17: "Mr. Pontellier was very fond of walking about his house examining its various appointments and details, to see that nothing was amiss. He greatly valued his possessions, chiefly because they were his, and derived genuine pleasure from contemplating a painting, a statuette, a rare lace curtain-no matter what-after he had bought it and place it among his household gods." (Chopin, 63) From Chopin's depictions of the Pontellier mansion, we can have an insight into the Pontellier relationship—Edna is only one of Mr. Pontellier's possessions. In fact, Edna seems to drift from setting to setting in the novel, never really finding her true self. Through the detailed description of the settings, we can conclude that no matter where Edna is, she can never escape from the social constraints and can only realize her dream in the Paradise.
+
+Naturalism, with its thematic emphasis on the conflict between the relentless movement of time and the characters' impotent resistance to that movement, generally presents its sequence of events in straightforward chronological order, with little of that flare for subverting the surface coherence of plot that we associate with the fiction of modernism or postmodernism. The Awakening has the extremely clean, streamlined, linear plots typical of naturalist texts. There is only one extended flashback in The Awakening (Chapter 7), which gives a selection of details about Edna's childhood, contextualizing her relation to her parents and providing perspective on the present situation of the heroine. Beyond that point, the story seems to move ahead quite directly, with little perceptible circling. This arrangement underscores Edna's decline.
+
+#### Exquisite psychological description
+
+Psychological description was first employed by the realist writers in 19 century. Later naturalist writers inherited it and used it from a perspective different from their predecessors—man's physical perspective — in order to search into the secret recesses of the soul. Through the overanalytic studies of inner states and motives, naturalist writers revealed the changes of man's behaviors and the changes of man's fate.
+
+In The Awakening, the exquisite descriptions of how Edna feels appear in many scenes, such as that of the quarrel between Edna and her husband, the first time when Edna listens to the performance of Reisz, the departure of Robert, Edna's witness of Adele's procreation, Edna's walking into the sea at the end of the novel, and so on. Thus,d we have an insight into Edna's thoughts, which helps us better interpret Edna's behaviors.
+
+One of the typical examples is Chapter 28, including only one paragraph of the detailed description of Edna's feelings after she begins her affair with Arobin.
+
+> It was only one phase of the multitudinous emotions which had assailed her. There was with her an overwhelming feeling of irresponsibility. There was the shock of the unexpected and the unaccustomed. There was her husband's reproachd looking at her from the external things around her which he had provided for her external existence. There was Robert's reproach making itself felt by a quicker, fiercer, more overpowering love, which had awakened within her toward him. Above all, there was understanding. She felt as if a mist had been lifted from her eyes, enabling her to look upon and comprehend the significance of life, that monster made up of beauty and brutality. But among the conflicting sensations which assailed her, there was neither shame nor remorse. There was a dull pang of regret because it was not the kiss of love which had inflamed her, because it was not love which had held this cup of life to her lips. (Chopin, 106)
+
+It is clear that Edna's affair with Arobin is completely driven by her amatory impulses. This part underscores the great influence of the basic instinct on Edna.
+
+Another typical example appears at the last scene of the novel. In Chapter 39, Chopin gives an exquisite account of Edna's feeling as Edna is walking into the sea.
+
+> She remembered the night she swam far out, and recalled the terror that seized her at the fear of being unable to regain the shore. She did not look back now, but went on and on, thinking of the blue-grass meadow that she had traversed when a little child, believing that it had no beginning and no end....
+> 
+> She thought of Leonce and the children. They were a part of her life. But they need not have thought that they could possess her, body and soul. How Mademoiselle Reisz would have laughed, perhaps sneered, if she knew! "And you call yourself an artist! What pretensions, Madame! The artist must possess the courageous soul that dares and defies."...
+> 
+> "Good-bye — because I love you." He did not know; he did not understand. He would never understand. Perhaps Doctor Mandelet would have understood if she had seen him—but it was too late; the shore was far behind her, and her strength was gone. (Chopin, 147)
+
+Clearly this part spotlights Edna's desperation after she realizes that her struggles for self-identity are useless in the Victorian society. Meanwhile we can also have a better understanding of Edna's suicide.
+
+#### Symbolism
+
+Symbolism is the practice of representing things by means of symbols or attributing symbolic meanings or significance to objects, events, or relationship. Unlike realist writing in which the use of symbolism is controlled and limited, naturalism relied heavily upon symbolism that reinforces a given natural reality. For example, in order to stress on a process of degeneration, Dreiser begins his The Financier with the famous description of the lobster consuming the squid and also ends it with that of the Black Grouper, a fish of 250 pounds which can adapt perfectly to its surroundings, change its color, and prey upon the unsuspecting. Similarly, in The Awakening, birds, clothes, art and music and other narrative elements are powerful symbols which add meaning to the novel and the characters.
+
+On the very first page, a noteworthy image of "caged bird" appears.
+
+> A green and yellow parrot, which hung in a cage outside the door, kept repeating over and over:
+> 
+> "Allez vous-en! Allez vous-en! Sapristi! That's all right!" (Chopin, 1)The caged birds here serve as reminders of Edna's entrapment. She is caged in the roles as wife and mother. She is never expected to think for herself. Moreover, the caged birds symbolize the entrapment of the Victorian women in general.
+
+In contrast to caged birds, Chopin uses wild birds and the idea of flight as symbols of freedom. This symbol is shown in a vision of a bird experienced by Edna while Reitz is playing the piano.
+
+> When she heard it there came before her imagination the figure of a man standing beside a desolate rock on the seashore. He was naked. His attitude was one of hopeless resignation as he looked toward a distant bird winging its flight away from him. (Chopin, 32)
+
+In this vision Edna is showing her desire for freedom, desire for escaping her roles as wife and mother, from her husband who keeps her in a social cage.
+
+Mademoiselle Reisz is one of the most important secondary characters of The Awakening. She provides Edna music that awakens her soul, letters from Robert and advice. She sees Edna as a bird, who is seeking to fly away from society's conventions and from her responsibilities as wife and mother. Reisz warns Edna:
+
+> "The bird that would soar above the level plain of tradition and prejudiced must have strong wings. It is a sad spectacle to see the weaklings bruised, exhausted, fluttering back to earth." (Chopin, 105)
+
+Mademoiselle Reisz seems to know Edna. She knows that Edna will try to fly away from the Creole society, but she is not certain if she will be strong enough to succeed. Reisz is in many ways omniscient, warning Edna that her flight may not be successful. However, Edna does not understand Reisz's words:
+
+> "I'm not thinking of any extraordinary flights. I only half comprehend her." (Chopin, 105)
+
+In the last scene of the novel, Chopin uses again the image of a bird, a very similar to the one described by Reisz to Edna:
+
+> A bird with a broken wing was beating the air above, reeling, fluttering, circling disabled down, down to the water. (Chopin, 146)
+
+This bird embodies Edna's disillusionment as she learns that her ideals of freedomd and independence are not reality in the Creole socicty of 19th century.
+
+Clothes are a symbol related to the rules and conventions of society throughout the The Awakening. In the first chapters of the novel she is fully dressed; slowly in the course of the novel she removes her clothes. This process of nakedness symbolizes the liberation from the social rules imposed to her and also emphasizes her physical and sexual awakening. In the last scene of the novel Edna is totally naked for the first time in her life:
+
+> But when she was there beside the sea, absolutely alone, she cast the unpleasant, pricking garments from her, and for the first time in her life she stood naked in the open air, at the mercy of the sun, the breeze that beat upon her, and the waves that invited her. (Chopin, 146)
+
+This final episode with Edna naked for the first time stresses the idea of rebirth in Edna.
+
+Art becomes a symbol of freedom for Edna. Through her process of trying to be an artist, she is able to express herself and also to acquire a certain economic independence from her husband. However art also becomes a symbol of failure. Mademoiselle Reisz sees becoming an artist as a test of individuality. Edna fails because she is finally unable to defend her individuality against the social rules.
+
+Music, especially piano playing, is also a symbolic element. The manner in which the characters use and understand music gives the reader a sense of Edna's ideologicald position in relation to other characters. There are four characters in the novel that play the piano: Adele Ratignolle, Mademoiselle Reisz and the Farival twins. Each of them, especially Adele Ratignolle and Mademoiselle Reisz, represents a different aspect in the narrtive.
+
+Adele Ratignolle does not play for art. Instead she plays to keep her children and husband cheerful and to set time for parties. Mademoiselle Reisz, on the other hand, uses music as a form of artistic expression, not merely as a way of entertaining others. Mademoiselle Reisz's piano playing stirs new feelings in Edna and it makes her discover unexplored emotional territories.
+
+The difference that Edna discovers between the use of music of Mademoiselle Reisz and Adele emphasizes Edna's emotional growth. Thus, music, or Edna's changing reaction to it, also helps the reader to locate Edna in her awakening process.
+
+Finally, the Farival twins play the piano purely for the sake of gathered company. Their piano playing is pleasant for the social and conventional ears and similarly it serves as the model for how women should use art. For a Victorian woman, the use of art as a medium of self-expression and self-exploration constitutes a social rebellion. Therefore Mademoiselle Reisz's piano playing places her as an outsider in the Creole society. In this way, the piano playing becomes a symbol of social rules and regulations.
