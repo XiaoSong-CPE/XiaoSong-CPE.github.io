@@ -125,3 +125,5 @@ Adele Ratignolle does not play for art. Instead she plays to keep her children a
 The difference that Edna discovers between the use of music of Mademoiselle Reisz and Adele emphasizes Edna's emotional growth. Thus, music, or Edna's changing reaction to it, also helps the reader to locate Edna in her awakening process.
 
 Finally, the Farival twins play the piano purely for the sake of gathered company. Their piano playing is pleasant for the social and conventional ears and similarly it serves as the model for how women should use art. For a Victorian woman, the use of art as a medium of self-expression and self-exploration constitutes a social rebellion. Therefore Mademoiselle Reisz's piano playing places her as an outsider in the Creole society. In this way, the piano playing becomes a symbol of social rules and regulations.
+
+MjAuMTA2LjI0NS4xMDQ6MjMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46UkhBaE9IRTVPUzVWVVdoYVVVSlo
