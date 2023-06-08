@@ -19,9 +19,10 @@
 - [Week 12-1](./ppt/Week_12-1.md)
 - [Week 12-2](./ppt/Week_12-2.md)
 - [Week 13-1](./ppt/Week_13-1.md)
-- [Final Pre](./ppt/Final_Pre.md)
 
 ### Outline
 
 - [German Poverty](./outline/German_Poverty.md)
 - [Auto Metaphor](./outline/Auto_Metaphor.md)
+
+MjAuMTA2LjI0NS4xMDQ6MjMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46UkhBaE9IRTVPUzVWVVdoYVVVSlo
