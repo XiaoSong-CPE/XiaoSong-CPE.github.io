@@ -1,24 +1,21 @@
 {
-  "name": "karsten-blog",
+  "name": "Notizen Karstens",
   "version": "1.0.0",
-  "description": "My personal blog.",
+  "description": "Karstens Personale Notizen",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/plugin-search": "^2.0.0-beta.61",
-    "naive-ui": "^2.34.3",
-    "vuepress": "^2.0.0-beta.60",
-    "vuepress-plugin-md-enhance": "^2.0.0-beta.206"
+    "@vuepress/plugin-search": "^2.0.0-beta.63",
+    "vuepress": "^2.0.0-beta.63"
   },
   "dependencies": {
-    "@vuepress/theme-default": "^2.0.0-beta.61",
-    "dayjs": "^1.11.7",
+    "@vuepress/theme-default": "^2.0.0-beta.63",
+    "dayjs": "^1.11.8",
     "markdown-it-deflist": "^2.1.0",
     "markdown-it-footnote": "^3.0.3"
   }
