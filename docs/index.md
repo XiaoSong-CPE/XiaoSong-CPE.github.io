@@ -9,7 +9,6 @@ actions:
     link: /translate/
   - text: Modernes Englisch
     link: /englisch/
-  - text: Westliche Musik
-    link: musik
-    type: secondary
 ---
+
+[西方音乐史](musik)
