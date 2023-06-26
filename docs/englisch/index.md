@@ -1,4 +1,4 @@
-# 现代英语
+<!-- # 现代英语
 
 ## Book 6
 
@@ -25,12 +25,11 @@
 - [German Poverty](./outline/German_Poverty.md)
 - [Auto Metaphor](./outline/Auto_Metaphor.md)
 
-MTcyLjE3My4yNDUuMTQxOjIzMzM6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOlJIQWhPSEU1T1M1VlVXaGFVVUpa
-
+MTcyLjE3My4yNDUuMTQxOjIzMzM6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOlJIQWhPSEU1T1M1VlVXaGFVVUpa -->
 ## Nettles
 
 ketchup
-: <badge text="N-UNCOUNT" /> Ketchup is a thick, cold sauce, usually made from tomatoes, that is sold in bottles. 番茄酱
+: Ketchup is a thick, cold sauce, usually made from tomatoes, that is sold in bottles. 番茄酱
 
 hawthorn
 : A hawthorn is a small tree which has sharp thorns and produces white or pink flowers. 山楂树
