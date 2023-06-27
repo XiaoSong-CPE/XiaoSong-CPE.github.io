@@ -12,6 +12,3 @@ actions:
 ---
 
 [西方音乐史](musik)
-
-[final](final)
-[final_print](final_print)
