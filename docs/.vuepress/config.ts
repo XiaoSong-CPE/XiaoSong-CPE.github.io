@@ -2,17 +2,17 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import markdownItDeflist from 'markdown-it-deflist'
 import markdownItFootnote from 'markdown-it-footnote'
-// import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
     plugins: [
-        // mdEnhancePlugin({
-        //     // 启用 mermaid
-        //     mermaid: true,
-        //     // 启用 echart
-        //     echarts: true,
-        // }),
+        mdEnhancePlugin({
+            // 启用 mermaid
+            mermaid: true,
+            // 启用 echart
+            echarts: true,
+        }),
         searchPlugin({
             // 排除首页
             isSearchable: (page) => page.path !== '/',
