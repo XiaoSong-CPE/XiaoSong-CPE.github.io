@@ -13,80 +13,52 @@ actions:
 
 [西方音乐史](musik) -->
 
-**Ms. Na NING:** Inquired about comments on clause 5.3.1.
+# 实习报告
 
-**Japanese expert:** Proposed deleting the description of specific observation frequency in the table, as it varies among countries and projects.
+## 实习工作介绍
 
-**Chinese expert:** Asked about the experience of European countries regarding observation frequency. Mentioned the strong relationship between frequency and observation results in China. Argued that deleting the frequency entirely would result in the loss of important information. Suggested finding alternative ways to describe the frequency.
+我在过去的三个月里，有幸在深圳市致远优学教育科技有限公司北京分公司进行了一场精彩的实习，这家公司专注于中小学教育领域。我的实习任务主要包括为中小学英语教学制作课件、审核英语课件，以及审核英语教学视频。这个实习机会为我提供了深入了解教育科技行业的机会，同时也让我更好地了解了英语教学的内部机制。通过这次实习，我对英语教育的工作流程和要求有了更深入的了解，也提高了自己的英语水平和专业技能。
 
-**Mr. Alex Baldwin:** Stated that the matter is not within his area of expertise.
+## 对工作岗位的认识
 
-**Mr. Fern James:** Emphasized that the observation frequency depends on the type of track and building structure. Explained that their existing network is measured twice a year, with automatic areas being measured more frequently. Stressed the importance of case-specific solutions.
+在这个实习过程中，我深刻认识到了教育科技行业的重要性以及我所扮演的角色。我意识到，通过制作和审核英语课件，我实际上是在为数百名学生的英语学习提供了支持和指导。这个角色的责任感让我更加严谨和细致地对待工作，因为我明白我的工作将直接影响到学生的学习效果和英语能力的提高。
 
-**Mr. Alex Baldwin:** Supported Mr. Fern James' statement, mentioning that the United Kingdom follows a similar approach with case-specific instructions for existing infrastructure and varying observation frequency for new infrastructure.
+我还意识到，教育科技领域的发展对于教育方式的改变具有深远的影响。通过数字化教育工具，学生们可以更加灵活地学习，教师可以更好地个性化教学。我对于自己参与了这个变革过程感到自豪，也明白了教育科技的发展有助于提高教育的普及性和质量。
 
-**Chinese expert:** Summarized the need to consider different track types and construction stages when determining observation frequency.
+我对制作和审核英语课件的工作有了更清晰的认识。我了解了课件的设计原则和标准，如内容的适宜性、逻辑性、趣味性、互动性等，以及课件的制作软件和工具，如PowerPoint、Photoshop等。我学会了如何根据教材和教学目标，选择合适的图片、音频、视频等素材，制作出高质量的课件。我也学会了如何对课件进行审核，检查课件是否符合规范，是否有错别字、语法错误、版权问题等，以及如何给出修改意见和建议。
 
-**Mr. Alex Baldwin:** Mentioned the influence of variables such as season and weather on observation frequency.
+## 实习的收获
 
-**Dr. Kiwamu TSUNO:** Stated the need to open a consensus and described the importance of dynamic observation frequency based on engineering judgment.
+在这次实习中，我收获了丰富的经验和知识。首先，我学会了如何制作高质量的英语教育课件。这包括了课件的设计、内容的选择以及如何利用多媒体资源来提高教学吸引力。我还学到了如何根据不同年龄和英语水平的学生的需求来调整课程内容，以确保他们能够更好地理解和掌握英语。
 
-**Japanese expert:** Proposed not determining a specific value for observation frequency due to variations in situations and countries.
+通过审核英语课件和教学视频，我不仅提高了自己的英语语言水平，还深入了解了教育教学的最新趋势和方法。我学到了如何评估课程的有效性，以及如何协助教师改进他们的教学方法。
 
-**Chinese expert:** Explained that observation frequency is based on their experience and individual testing. Emphasized the need to keep the final prediction result accurate and reasonable.
+另外，我在团队协作方面也有了显著的提升。在与团队成员一起工作的过程中，我学会了有效沟通、分享想法和协调工作进度。这些团队合作的技能对我的职业发展至关重要。
 
-**Mr. Alex Baldwin:** Mentioned the influence of various factors on observation frequency, such as soil types and seasonal variations.
+## 自身知识体系和能力方面的不足与改善计划
 
-**Mr. Fern James:** Stressed the importance of case-specific solutions based on the type of track and building structure. Highlighted the need for different observation frequencies for different stages of construction.
+尽管实习经验丰富，但我也认识到了自身存在一些不足之处。首先，我需要进一步提高自己的英语语言水平，以更好地理解和制作英语教材。为此，我计划参加一些英语培训课程，提高听力、口语和写作技能。同时，我还将积极参与英语角和语言交流活动，以提高口语表达能力。
 
-**Japanese expert:** Mentioned the difficulty of determining observation frequency in Japan due to site-specific situations.
+其次，我希望在教育领域的专业知识方面有更多的积累。我计划阅读更多有关教育心理学和教育技术的书籍，以便更深入地理解学生的学习需求和最新的教育技术趋势。我还计划参加教育研讨会和课程，与教育领域的专家交流，不断拓宽自己的教育知识。
 
-**Ms. Na NING:** Proposed providing general information instead of specific values in the table. Proposed discounting the specific observation frequency and asking for agreement on a general approach.
+## 未来职业路径的规划
 
-**Japanese expert:** Agreed with the proposed change and expressed satisfaction with the outcome.
+### 第五部分：未来职业路径的规划
 
-**Ms. Na NING:** Inquired about comments on clause 5.3.3.
+通过这次实习，我更加明确了自己的职业规划，但我深知在教育科技领域取得长期成功需要坚定的决心和不懈的努力。我的未来职业路径规划如下：
 
-**European expert:** Asked for clarification on the concept of _winter break_. Mentioned the continuous operation of trains in certain regions.
+在职业生涯中，我将持续关注教育科技领域的最新趋势和技术。我将积极参加行业会议、研讨会和培训课程，以不断更新自己的知识和技能。此外，我也计划获得相关的认证，以加强自己在教育科技领域的专业地位。
 
-**Ms. Na NING:** Explained that winter break refers to the suspension of construction during the winter season due to the extreme cold.
+我希望在未来能够参与教育科技产品的开发和改进。我将寻找机会加入创新团队，与工程师、设计师和教育专家紧密合作，共同开发符合教育需求的高质量产品。我的目标是为学生和教师提供更好的工具和资源，以支持他们的学习和教育。
 
-**European expert:** Stated that the presence of trains operating year-round in certain mountainous regions necessitates ongoing track measurements.
+除了产品开发，我还计划成为一名教育科技顾问。我希望能够为学校、教育机构和教育科技公司提供专业的咨询服务，帮助他们优化教育流程和教育科技应用。同时，我也考虑开设教育科技培训课程，培养更多的教育从业者具备教育科技的应用能力。
 
-**Ms. Na NING:** Suggested deleting the first condition (winter break) from the draft, agreeing with the European expert's perspective.
+长期来看，我憧憬着在教育科技领域创业，致力于解决教育中的难题。我希望能够发掘新的教育科技创新点，推动教育领域的发展。这可能包括开发新的学习平台、应用人工智能于教育、或者改善在线学习体验等方面的创新。
 
-**European expert:** Agreed with the deletion of the first condition, emphasizing the importance of considering the nature of the construction and the type of materials used in determining observation frequency.
+总的来说，我的未来职业路径规划是在教育科技领域不断深耕，不断学习和成长。我将继续追求教育事业的发展，为提升学生的学习体验和教师的教育效能而努力。我深信，通过不懈的努力和持续的学习，我能够在教育科技领域取得有意义的成就，为教育事业贡献更多的价值。
 
-**Ms. Na NING:** Discussed clause 5.3.5 regarding horizontal displacement. Proposed merging it with clause 5.3.2 and deleting it, suggesting that the frequency should be determined based on construction stage, railway line class, and prediction accuracy.
+## 对终身学习的认识
 
-**Mr. Alex Baldwin:** Expressed satisfaction with the proposed modification.
+最后，我深刻认识到终身学习的重要性。在不断变化的世界中，只有不断学习和适应新知识和技能，才能保持竞争力。这次实习经历让我明白，学习不仅仅是为了应对工作需要，更是为了个人成长和实现梦想。因此，我将继续追求知识，不断提升自己，为实现自己的职业目标而努力奋斗。
 
-**Mr. Panu Tolla:** Stated that the formulation was good but emphasized the need for more specific technical requirements, including measuring frequency, identification of local problems, and sharing of shape and development. Suggested using an annex to provide examples from different countries, including China, Japan, and Europe, to serve as references.
-
-**Ms. Na NING:** Acknowledged the need for minimum requirements but emphasized that the document is a technical specification rather than an international standard. Agreed with Mr. Panu Tolla's suggestion to provide examples in an annex.
-
-**Japanese expert:** Recommended including examples from different countries in the informative annex to provide references for users. Emphasized the importance of clarity and understanding the functional aspects of monitoring, especially for new lines.
-
-**Ms. Na NING:** Agreed with the idea of including examples in the annex and suggested preparing them for discussion in the next meeting, incorporating inputs from China, Europe, and Japan.
-
-**Japanese expert:** Proposed not solely including Chinese standards in the informative annex but rather presenting it as an example from a specific country, including details on measurement equipment, design, and measurement conditions.
-
-**Ms. Na NING:** Acknowledged the suggestion and agreed to work on proposing examples for the annex, taking into account the discussion points.
-
-**Japanese expert:** Highlighted the need to further address the issue of train speed specification in the technical specification, suggesting that it should not be explicitly specified.
-
-**Chinese expert:** Accepted the proposed modification regarding train speed specification.
-
-**Ms. Na Ning:** Mentioned comments of clause 6.3.1. Proposed keeping the first paragraph and deleting the example in clause 6.3.1. Suggested creating a new table to address the missing information.
-
-**Japanese expert:** Apologised for their confusion about the comments on clause 6.3.1 which had already been discussed at the last meeting. Agreed with keeping the first paragraph and deleting the example.
-
-**Ms. Na NING:** Mentioned the need to address clause 6.3.2 and suggested moving the table and explanation to the annex.
-
-**Chinese expert:** Accepted the proposal to move the table to the annex and asked for clarification on whether to keep clause 6.3.2.
-
-**Japanese expert:** Suggested discussing the matter after creating a new informative annex and emphasized the need for input from Japan and European countries regarding the threshold values.
-
-**Chinese expert:** Agreed with the suggestion and acknowledged the need for additional input from Japan and European countries.
-
-**Ms. Na NING:** Concluded that all comments had been addressed.
+总的来说，这次实习经验对我的职业发展和个人成长产生了深远的影响。我学到了很多有价值的知识和技能，明确了自己的职业规划，并坚信终身学习将是我前进道路上的动力源泉。我要感谢公司的支持和指导，让我有机会参与这次难忘的实习，为我的未来铺平了道路。我期待着在教育科技领域取得更多的成就，为教育事业贡献自己的力量。无论未来如何，我将秉持着终身学习的信念，不断前进，不断成长。
