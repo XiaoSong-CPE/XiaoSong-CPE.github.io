@@ -12,12 +12,12 @@ export default defineUserConfig({
     vuePluginOptions: {},
   }),
   plugins: [
-    mdEnhancePlugin({
-      // 启用 mermaid
-      mermaid: true,
-      // 启用 echart
-      echarts: true,
-    }),
+    // mdEnhancePlugin({
+    //   // 启用 mermaid
+    //   mermaid: true,
+    //   // 启用 echart
+    //   echarts: true,
+    // }),
     searchPlugin({
       // 排除首页
       isSearchable: (page) => page.path !== "/",

@@ -11,35 +11,45 @@
         <n-tab-pane name="e1" tab="1. Applying given-before-new">
           <n-divider>Abstract</n-divider>
           <n-p>
-            Dative alternation between prepositional and double object datives
-            has been a popular topic in second language (L2) acquisition, but
-            only few studies deal with discourse constraints such as the
-            given-before-new principle, or given-new (GN) ordering, which
-            describes the tendency to place given information before new
-            information. The present study investigated Chinese English as a
-            Foreign Language (EFL) learners at different proficiency levels on
-            their ability to instantiate the GN order in English dative
-            constructions to account for their difficulty regarding the
-            discourse constraint that is expected to stem from structural
-            differences between the two languages. In this study, 140 Chinese
-            EFL learners were divided into 4 groups according to their
-            proficiency levels, with ten native speakers in the control group.
-            In a written elicited production task, six dative verbs were
-            presented both in the given-theme and the given-recipient conditions
-            so that the alignment of two objects and the errors in their
-            responses could be probed. Results demonstrated that sensitivity to
-            the GN principle tended to increase as the participants’ English
-            proficiency increased. More specifically, the GN order is more
-            frequently instantiated in prepositional datives so that learners
-            with high proficiency behave similar to native speakers while even
-            advanced learners have difficulty producing as much GN order in
-            double object datives as native speakers. A combination of two
-            factors concerning the type of dative constructions and information
-            structures is suggested to account for the results. Additionally, it
-            was observed that Chinese learners of English would rather drop the
-            given argument than produce new-given (NG) order, which violates the
-            GN principle, probably due to their first language (L1) allowing
-            topic drop.
+            <n-text :type="a1">
+              Dative alternation between prepositional and double object datives
+              has been a popular topic in second language (L2) acquisition, but
+              only few studies deal with discourse constraints such as the
+              given-before-new principle, or given-new (GN) ordering, which
+              describes the tendency to place given information before new
+              information.
+            </n-text>
+            <n-text :type="a2">
+              The present study investigated Chinese English as a Foreign
+              Language (EFL) learners at different proficiency levels on their
+              ability to instantiate the GN order in English dative
+              constructions to account for their difficulty regarding the
+              discourse constraint that is expected to stem from structural
+              differences between the two languages.
+            </n-text>
+            <n-text :type="a3">
+              In this study, 140 Chinese EFL learners were divided into 4 groups
+              according to their proficiency levels, with ten native speakers in
+              the control group. In a written elicited production task, six
+              dative verbs were presented both in the given-theme and the
+              given-recipient conditions so that the alignment of two objects
+              and the errors in their responses could be probed.
+            </n-text>
+            <n-text :type="a4">
+              Results demonstrated that sensitivity to the GN principle tended
+              to increase as the participants’ English proficiency increased.
+              More specifically, the GN order is more frequently instantiated in
+              prepositional datives so that learners with high proficiency
+              behave similar to native speakers while even advanced learners
+              have difficulty producing as much GN order in double object
+              datives as native speakers. A combination of two factors
+              concerning the type of dative constructions and information
+              structures is suggested to account for the results. Additionally,
+              it was observed that Chinese learners of English would rather drop
+              the given argument than produce new-given (NG) order, which
+              violates the GN principle, probably due to their first language
+              (L1) allowing topic drop.
+            </n-text>
           </n-p>
           <n-divider>Conclusion</n-divider>
           <n-p>
@@ -245,28 +255,52 @@ import {
 } from "naive-ui";
 import { ref, computed, type Ref } from "vue";
 let selectedStructure: Ref<undefined | string> = ref(undefined);
-let c1 = computed(() =>
-  selectedStructure.value === `c1` ? `success` : `default`
-);
-let c2 = computed(() =>
-  selectedStructure.value === `c2` ? `success` : `default`
-);
-let c3 = computed(() =>
-  selectedStructure.value === `c3` ? `success` : `default`
-);
-let c4 = computed(() =>
-  selectedStructure.value === `c4` ? `success` : `default`
-);
-let c5 = computed(() =>
-  selectedStructure.value === `c5` ? `success` : `default`
-);
-let c6 = computed(() =>
-  selectedStructure.value === `c6` ? `success` : `default`
-);
-let c7 = computed(() =>
-  selectedStructure.value === `c7` ? `success` : `default`
-);
+function createComputed(value) {
+  return computed(() =>
+    selectedStructure.value === value ? `success` : `default`
+  );
+}
+
+let c1 = createComputed(`c1`);
+let c2 = createComputed(`c2`);
+let c3 = createComputed(`c3`);
+let c4 = createComputed(`c4`);
+let c5 = createComputed(`c5`);
+let c6 = createComputed(`c6`);
+let c7 = createComputed(`c7`);
+let a1 = createComputed(`a1`);
+let a2 = createComputed(`a2`);
+let a3 = createComputed(`a3`);
+let a4 = createComputed(`a4`);
+let a5 = createComputed(`a5`);
 let structureOptions = [
+  {
+    key: "a",
+    label: "Abstract",
+    type: "group",
+    children: [
+      {
+        value: `a1`,
+        label: `Background`,
+      },
+      {
+        value: `a2`,
+        label: `Aims`,
+      },
+      {
+        value: `a3`,
+        label: `Methodology`,
+      },
+      {
+        value: `a4`,
+        label: `Key findings`,
+      },
+      {
+        value: `a5`,
+        label: `Contributions`,
+      },
+    ],
+  },
   {
     key: "c",
     label: "Conclusion",

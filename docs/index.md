@@ -39,6 +39,14 @@ actions:
 
 > 三篇文章的 Abstract 分别可以划分成几个层次？结合论文本身，用一张表格概括、对比三篇论文 Abstract 的层次。
 
+|              | 1. Applying given-before-new | 2. The Politics And Gendering | 3. Hongloumeng |
+| ------------ | :--------------------------: | :---------------------------: | :------------: |
+| Background   |             :o:              |                               |      :x:       |
+| Aims         |             :o:              |                               |      :o:       |
+| Methodology  |             :o:              |                               |      :o:       |
+| Key findings |             :o:              |                               |      :o:       |
+| Contribution |             :x:              |                               |      :o:       |
+
 # Frage 3
 
 > 根据前两个问题，用一张表格概括、对比 Conclusion 和 Abstract 的内容有何异同？
