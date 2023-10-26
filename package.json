@@ -12,15 +12,12 @@
   "devDependencies": {
     "@vuepress/plugin-search": "^2.0.0-beta.63",
     "naive-ui": "^2.35.0",
-    "sass": "^1.69.5",
-    "unplugin-element-plus": "^0.8.0",
     "vuepress": "^2.0.0-beta.63",
     "vuepress-plugin-md-enhance": "^2.0.0-beta.239"
   },
   "dependencies": {
     "@vuepress/theme-default": "^2.0.0-beta.63",
     "dayjs": "^1.11.8",
-    "element-plus": "^2.4.1",
     "markdown-it-deflist": "^2.1.0",
     "markdown-it-footnote": "^3.0.3"
   }
