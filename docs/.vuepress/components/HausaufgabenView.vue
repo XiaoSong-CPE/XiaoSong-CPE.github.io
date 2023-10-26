@@ -10,7 +10,7 @@
       <n-tabs type="line" animated>
         <n-tab-pane name="e1" tab="1. Applying given-before-new">
           <n-divider>Abstract</n-divider>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="a1">
               Dative alternation between prepositional and double object datives
               has been a popular topic in second language (L2) acquisition, but
@@ -52,7 +52,7 @@
             </n-text>
           </n-p>
           <n-divider>Conclusion</n-divider>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="c2">
               This study <b>aimed to</b> investigate Chinese EFL learners
               acquiring sensitivity to information structure, that is, GN
@@ -108,8 +108,41 @@
         </n-tab-pane>
         <n-tab-pane name="e2" tab="2. The Politics And Gendering">
           <n-divider>Abstract</n-divider>
+          <n-p style="text-align: justify">
+            <n-text :type="a2">
+              This article explores the theme of disability and sexuality, in
+              the novels of Raymond Williams.
+            </n-text>
+            <n-text :type="a4">
+              In all of his novels, male characters are frequently crippled and
+              emasculated, while the female characters are capable and
+              cryptically powerful. The crippled fgures not only serve as
+              examples of the victims of the crippling divisiveness of
+              capitalism, but also represent working-class people, whose voices
+              are constantly silenced. These figures also epitomize their state,
+              the colonized and disabled Wales, politically, economically and
+              culturally subordinated to British power.
+            </n-text>
+            <n-text :type="a2">
+              As a woman’s face afects her prospects of achieving attention,
+              respect and power, the article also explores the facial
+              disfgurement of female characters.
+            </n-text>
+            <n-text :type="a4">
+              Williams chooses to cripple many of his male characters, while
+              bestowing on the female characters a quietly effective capacity
+              for exerting strong infuence over their husbands, brothers, etc.
+              However, in this particular process of gendering power, Williams
+              manages to over turn the traditional gender orthodoxies and
+              patriarchal discourses. The gendering of disability and the
+              disabling of gender is highly intertwined and mutually
+              reinforcing. Consciously and unconsciously, he ofers the reader
+              the possibilities of a regendered social and political
+              confguration, primarily in Wales and by implication beyond.
+            </n-text>
+          </n-p>
           <n-divider>Conclusion</n-divider>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="c3">
               As can be seen in Williams’s fction, male characters are disabled
               by leg impairment caused by external circumstances such as war
@@ -127,7 +160,7 @@
               gender is highly intertwined and mutually reinforcing.
             </n-text>
           </n-p>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="c1">
               In history, the Welsh women have not only been active participants
               in constructing the Welsh national identity and true democracy,
@@ -168,7 +201,7 @@
               nonviolent way.
             </n-text>
           </n-p>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="c4">
               In sum, the gendering in Williams’s fction carries rich symbolic
               connotations: the author chooses to cripple many of his male
@@ -186,8 +219,39 @@
         </n-tab-pane>
         <n-tab-pane name="e3" tab="3. Hongloumeng">
           <n-divider>Abstract</n-divider>
+          <n-p style="text-align: justify">
+            <n-text :type="a2">
+              Based on a corpus-driven analysis of two translated versions of
+              Hongloumeng (one by David Hawkes and the other by Xianyi Yang and
+              Gladys Yang) in parallel corpora, this article investigates the
+              use of lexical bundles in an attempt to trace the stylistic
+              features and differences in the translations produced by the
+              respective translators.
+            </n-text>
+            <n-text :type="a3">
+              The Hongloumeng corpus is developed at the sentence level to
+              facilitate co-occurrence of the source texts and the two
+              corresponding translations. For this purpose, the three-word and
+              four-word lexical bundles were first extracted and then analyzed
+              with respect to the functional classification proposed by Biber et
+              al. (2004).
+            </n-text>
+            <n-text :type="a4">
+              The results of the study show that Hawkes’ translation is embedded
+              with a greater number and variety of lexical bundles than the one
+              by the Yang couple.
+            </n-text>
+            <n-text :type="a5">
+              The study also identified the differences between the two versions
+              which can be traced back to the deployment of different
+              translation strategies of the translators, appearing in turn to be
+              influenced by the language backgrounds of the translators, the
+              translation skopos and settings, and the social, political, and
+              ideological milieu in which the translations were produced.
+            </n-text>
+          </n-p>
           <n-divider>Conclusion</n-divider>
-          <n-p>
+          <n-p style="text-align: justify">
             <n-text :type="c2">
               This study adopted a corpus-driven approach to investigate the use
               of lexical bundles in the two translations of the Chinese literary
@@ -237,22 +301,22 @@
 </template>
 
 <script setup lang="ts">
-import {
-  NP,
-  NText,
-  NSpace,
-  NSelect,
-  NForm,
-  NFormItem,
-  NCard,
-  NTabs,
-  NTabPane,
-  NH2,
-  NTag,
-  NCollapse,
-  NCollapseItem,
-  NDivider,
-} from "naive-ui";
+// import {
+//   NP,
+//   NText,
+//   NSpace,
+//   NSelect,
+//   NForm,
+//   NFormItem,
+//   NCard,
+//   NTabs,
+//   NTabPane,
+//   NH2,
+//   NTag,
+//   NCollapse,
+//   NCollapseItem,
+//   NDivider,
+// } from "naive-ui";
 import { ref, computed, type Ref } from "vue";
 let selectedStructure: Ref<undefined | string> = ref(undefined);
 function createComputed(value) {
