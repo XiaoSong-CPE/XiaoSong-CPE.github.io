@@ -1,5 +1,5 @@
 <template>
-  <n-card>
+  <div>
     <n-space vertical>
       <n-select
         v-model:value="selectedStructure"
@@ -116,7 +116,7 @@
             <n-text :type="a4">
               In all of his novels, male characters are frequently crippled and
               emasculated, while the female characters are capable and
-              cryptically powerful. The crippled fgures not only serve as
+              cryptically powerful. The crippled figures not only serve as
               examples of the victims of the crippling divisiveness of
               capitalism, but also represent working-class people, whose voices
               are constantly silenced. These figures also epitomize their state,
@@ -126,25 +126,25 @@
             <n-text :type="a2">
               As a woman’s face afects her prospects of achieving attention,
               respect and power, the article also explores the facial
-              disfgurement of female characters.
+              disfigurement of female characters.
             </n-text>
             <n-text :type="a4">
               Williams chooses to cripple many of his male characters, while
               bestowing on the female characters a quietly effective capacity
-              for exerting strong infuence over their husbands, brothers, etc.
+              for exerting strong influence over their husbands, brothers, etc.
               However, in this particular process of gendering power, Williams
               manages to over turn the traditional gender orthodoxies and
               patriarchal discourses. The gendering of disability and the
               disabling of gender is highly intertwined and mutually
               reinforcing. Consciously and unconsciously, he ofers the reader
               the possibilities of a regendered social and political
-              confguration, primarily in Wales and by implication beyond.
+              configuration, primarily in Wales and by implication beyond.
             </n-text>
           </n-p>
           <n-divider>Conclusion</n-divider>
           <n-p style="text-align: justify">
             <n-text :type="c3">
-              As can be seen in Williams’s fction, male characters are disabled
+              As can be seen in Williams’s fiction, male characters are disabled
               by leg impairment caused by external circumstances such as war
               (Bert), work injury (Ivor Ral and Idris), or accident (Mirin,
               Buxton and Dal Mered); while the females’ disabilities tend to be
@@ -189,21 +189,21 @@
             </n-text>
             <n-text :type="c2">
               This explains recurrent image of crippled Welsh men in Williams’s
-              fction: for him, the resolute, masculine, revolutionary way of
-              rising up against the British dominion and fghting for an
+              fiction: for him, the resolute, masculine, revolutionary way of
+              rising up against the British dominion and fighting for an
               idealized democratic society for the working-class people has
               become disabled by various inevitable factors. Rather, Williams’s
-              fction appears to suggest a soft power embodied in his strong
+              fiction appears to suggest a soft power embodied in his strong
               female characters, a manipulative strategy to infuence the ruling
               class in England, that is, to assert Welsh culture as a
               completeness, a vigorous and solid existence, endowed with a
-              forceful attraction, so as to infuence England in a subtle and
+              forceful attraction, so as to influence England in a subtle and
               nonviolent way.
             </n-text>
           </n-p>
           <n-p style="text-align: justify">
             <n-text :type="c4">
-              In sum, the gendering in Williams’s fction carries rich symbolic
+              In sum, the gendering in Williams’s fiction carries rich symbolic
               connotations: the author chooses to cripple many of his male
               characters, while bestowing on the women a quietly efective
               capacity for exerting strong infuence over their husbands or
@@ -212,7 +212,7 @@
               discourses. Consciously and unconsciously, he ofers the reader the
               possibilities of a re-gendered social and political confguration,
               primarily in his Wales and by implication beyond. In this sense
-              his fctional practice can be seen to connect implicitly, but
+              his fictional practice can be seen to connect implicitly, but
               compellingly, with his sociocultural theory.
             </n-text>
           </n-p>
@@ -222,15 +222,15 @@
           <n-p style="text-align: justify">
             <n-text :type="a2">
               Based on a corpus-driven analysis of two translated versions of
-              Hongloumeng (one by David Hawkes and the other by Xianyi Yang and
-              Gladys Yang) in parallel corpora, this article investigates the
-              use of lexical bundles in an attempt to trace the stylistic
-              features and differences in the translations produced by the
-              respective translators.
+              <i>Hongloumeng</i> (one by David Hawkes and the other by Xianyi
+              Yang and Gladys Yang) in parallel corpora, this article
+              investigates the use of lexical bundles in an attempt to trace the
+              stylistic features and differences in the translations produced by
+              the respective translators.
             </n-text>
             <n-text :type="a3">
-              The Hongloumeng corpus is developed at the sentence level to
-              facilitate co-occurrence of the source texts and the two
+              The <i>Hongloumeng</i> corpus is developed at the sentence level
+              to facilitate co-occurrence of the source texts and the two
               corresponding translations. For this purpose, the three-word and
               four-word lexical bundles were first extracted and then analyzed
               with respect to the functional classification proposed by Biber et
@@ -297,7 +297,7 @@
         </n-tab-pane>
       </n-tabs>
     </n-space>
-  </n-card>
+  </div>
 </template>
 
 <script setup lang="ts">

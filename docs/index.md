@@ -53,20 +53,16 @@ actions:
 
 ## Question 3
 
-<badge vertical='middle'>张欣</badge>
-
 > 根据前两个问题，用一张表格概括、对比 Conclusion 和 Abstract 的内容有何异同？
 
-|                         | Conclusion | Abstract |
-| ----------------------- | :--------: | :------: |
-| background              |     -      |    +     |
-| aims                    |     +      |    +     |
-| methodology             |     +      |    +     |
-| key findings            |     +      |    +     |
-| theoretical implication |     +      |    +     |
-| methodology implication |    +/-     |   +/-    |
-| practical implication   |    +/-     |   +/-    |
-| recommendations         |    +/-     |    -     |
+|                 | Conclusion | Abstract |
+| --------------- | :--------: | :------: |
+| background      |   :o::x:   |  :o::x:  |
+| aims            |    :o:     |   :o:    |
+| methodology     |    :o:     |  :o::x:  |
+| key findings    |    :o:     |   :o:    |
+| contribution    |    :o:     |  :o::x:  |
+| recommendations |   :o::x:   |   :x:    |
 
 ## Annex
 
