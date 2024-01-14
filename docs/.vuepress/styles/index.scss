@@ -21,7 +21,6 @@
     img {
       border-radius: 1em;
     }
-
   }
 }
 
@@ -51,14 +50,22 @@
     white-space: pre-wrap;
   }
 
-  // set font to Times New Roman
-  body {
-    text-align: justify;
-  }
+}
 
-  // table color for 金贞贤
-  table thead tr {
-    background-color: #1e88e5 !important;
-    color: #fff;
-  }
+// References list styles for GB/T 7714-2015
+ol.footnotes-list {
+  counter-reset: footnote;
+  list-style-type: footnote-style;
+}
+
+@counter-style footnote-style {
+  system: numeric;
+  symbols: "0" "1" "2" "3" "4" "5" "6" "7" "8" "9";
+  prefix: "[";
+  suffix: "]";
+}
+
+ol.footnotes-list > li.footnote-item > p {
+  margin-top: 0;
+  margin-bottom: 0;
 }

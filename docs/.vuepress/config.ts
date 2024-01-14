@@ -7,12 +7,10 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
     plugins: [
-        // mdEnhancePlugin({
-        //     // 启用 mermaid
-        //     mermaid: true,
-        //     // 启用 echart
-        //     echarts: true,
-        // }),
+        mdEnhancePlugin({
+            // 启用 echart
+            echarts: true,
+        }),
         searchPlugin({
             // 排除首页
             isSearchable: (page) => page.path !== '/',
@@ -28,7 +26,7 @@ export default defineUserConfig({
             .use(markdownItFootnote)
 
         md.renderer.rules.footnote_block_open = () => (
-            '<h2 id="references-and-notes" tabindex="-1"><a class="header-anchor" href="#references-and-notes" aria-hidden="true">#</a> References and Notes</h2>\n' +
+            '<h2 id="references" tabindex="-1"><a class="header-anchor" href="#references" aria-hidden="true">#</a>6. References</h2>\n' +
             '<section class="footnotes">\n' +
             '<ol class="footnotes-list">\n'
         );
