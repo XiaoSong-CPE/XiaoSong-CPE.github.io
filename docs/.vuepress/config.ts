@@ -26,7 +26,7 @@ export default defineUserConfig({
             .use(markdownItFootnote)
 
         md.renderer.rules.footnote_block_open = () => (
-            '<h2 id="references" tabindex="-1"><a class="header-anchor" href="#references" aria-hidden="true">#</a>6. References</h2>\n' +
+            // '<h2 id="references" tabindex="-1"><a class="header-anchor" href="#references" aria-hidden="true">#</a>6. References</h2>\n' +
             '<section class="footnotes">\n' +
             '<ol class="footnotes-list">\n'
         );

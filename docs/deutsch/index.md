@@ -9,6 +9,8 @@ actions:
     link: /deutsch/text
   - text: Vokabeln
     link: /deutsch/vokabeln
+  - text: Notizen
+    link: /deutsch/notizen
 ---
 
 ## 学习资源
