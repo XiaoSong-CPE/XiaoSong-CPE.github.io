@@ -1,15 +1,20 @@
-# Deutschlernen Notizen
+# German Learning Notes
 
 ## German Noun Forms for Nationalities
 
-|            | männlich   | weiblich     | männlich, Plural | weiblich, Plural |
-| ---------- | ---------- | ------------ | ---------------- | ---------------- |
-| Amerikaner | Amerikaner | Amerikanerin | Amerikaner       | Amerikanerinnen  |
-| Chinesen   | Chinese    | Chinesin     | Chinesen         | Chinesinnen      |
-| Engländer  | Engländer  | Engländerin  | Engländer        | Engländerinnen   |
-| Franzose   | Franzose   | Französin    | Franzosen        | Französinnen     |
-| Japaner    | Japaner    | Japanerin    | Japaner          | Japanerinnen     |
-| Russe      | Russe      | Russin       | Russen           | Russinnen        |
+| männlich   | weiblich     | männlich, Plural | weiblich, Plural |
+| ---------- | ------------ | ---------------- | ---------------- |
+| Amerikaner | Amerikanerin | Amerikaner       | Amerikanerinnen  |
+| Chinese    | Chinesin     | Chinesen         | Chinesinnen      |
+| Deutscher  | Deutsche     | Deutsche         | Deutschen        |
+| Engländer  | Engländerin  | Engländer        | Engländerinnen   |
+| Franzose   | Französin    | Franzosen        | Französinnen     |
+| Italiener  | Italienerin  | Italiener        | Italienerinnen   |
+| Japaner    | Japanerin    | Japaner          | Japanerinnen     |
+| Russe      | Russin       | Russen           | Russinnen        |
+| Schwede    | Schwedin     | Schweden         | Schwedinnen      |
+| Spanier    | Spanierin    | Spanier          | Spanierinnen     |
+| Türke      | Türkin       | Türken           | Türkinnen        |
 
 ## Deutch.docx (von LYR)
 
