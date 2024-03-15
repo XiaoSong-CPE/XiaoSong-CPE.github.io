@@ -52,7 +52,7 @@ let list = [
   },
   {
     text: "北京科技馆实地考察与图片记录",
-    progress: 0.25,
+    progress: 0.81,
   },
   {
     text: "图片整理和文字转写",
