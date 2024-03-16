@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a1f9584a","path":"/tagebuch/2023/2023-04-17.html","title":"大创项目基本结束","lang":"de","frontmatter":{"layout":"tagbuch","date":"2023-04-17 21:30"},"headers":[],"git":{"updatedTime":1683829193000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"tagebuch/2023/2023-04-17.md"}');export{t as data};

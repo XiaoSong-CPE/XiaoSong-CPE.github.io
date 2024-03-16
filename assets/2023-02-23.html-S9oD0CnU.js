@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-96e562c4","path":"/tagebuch/2023/2023-02-23.html","title":"原创动力小游戏 领奖请求的返回信息","lang":"de","frontmatter":{"layout":"tagbuch","date":"2023-02-23 16:30"},"headers":[],"git":{"updatedTime":1683829193000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"tagebuch/2023/2023-02-23.md"}');export{t as data};

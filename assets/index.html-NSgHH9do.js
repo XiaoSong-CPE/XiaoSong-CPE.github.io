@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-22e0b16b","path":"/deutsch/vokabeln/","title":"","lang":"de","frontmatter":{"sidebar":false},"headers":[],"git":{"updatedTime":1684388170000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"deutsch/vokabeln/index.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,a as e}from"./app-EJyl-AbL.js";const o={},s=e("p",null,[e("a",{href:"musik"},"西方音乐史")],-1),_=[s];function a(r,l){return c(),n("div",null,_)}const d=t(o,[["render",a],["__file","index.html.vue"]]);export{d as default};

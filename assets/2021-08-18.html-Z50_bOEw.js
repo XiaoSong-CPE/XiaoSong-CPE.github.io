@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5112e1be","path":"/tagebuch/2021/2021-08-18.html","title":"A Dream","lang":"de","frontmatter":{"layout":"tagbuch","date":"2021-08-18 14:54"},"headers":[],"git":{"updatedTime":1688144278000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":1}]},"filePathRelative":"tagebuch/2021/2021-08-18.md"}');export{t as data};

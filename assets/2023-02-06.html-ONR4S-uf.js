@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4fdf61f9","path":"/tagebuch/2023/2023-02-06.html","title":"灰机wiki的HTML模板安全问题","lang":"de","frontmatter":{"layout":"tagbuch","date":"2023-02-06 19:30"},"headers":[],"git":{"updatedTime":1683829193000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"tagebuch/2023/2023-02-06.md"}');export{t as data};

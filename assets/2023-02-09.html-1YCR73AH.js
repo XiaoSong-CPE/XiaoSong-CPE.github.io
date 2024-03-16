@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-54fdebd6","path":"/tagebuch/2023/2023-02-09.html","title":"修改游戏《冲出海洋》","lang":"de","frontmatter":{"layout":"tagbuch","date":"2023-02-09 23:30"},"headers":[],"git":{"updatedTime":1683829193000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":2}]},"filePathRelative":"tagebuch/2023/2023-02-09.md"}');export{t as data};

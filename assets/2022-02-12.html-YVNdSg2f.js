@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2596b75e","path":"/tagebuch/2022/2022-02-12.html","title":"《消逝的光芒2》结局感想","lang":"de","frontmatter":{"layout":"tagbuch","date":"2022-02-12 07:09"},"headers":[],"git":{"updatedTime":1686228803000,"contributors":[{"name":"Karsten Zhou","email":"1339688323@qq.com","commits":1}]},"filePathRelative":"tagebuch/2022/2022-02-12.md"}');export{t as data};
